@@ -1,0 +1,1135 @@
+TemplateID,TemplateName,TemplateSynonyms,TemplateSource,TemplateType,TemplateSequence,TemplateStructure,TemplateComments
+1,Tetanus toxin,Tentoxylysin,Clostridium tetani:1513,Protein>Others,P04958,"1A8D, 1AF9, 1D0H, 1DFQ, 1DIW, 1DLL, 1FV2, 1FV3, 1YVG, 1YXW, 1YYN, 1Z7H, 3HMY, 3HN1",NULL
+2,O-specific polysaccharide of LPS,"Lipopolysaccharide, LPS",Vibrio cholerae O1:127906,Organic molecules or materials,NULL,NULL,"LPS is composed of lipid A, core polysaccharide, and O-SP."
+3,Receptor-type tyrosine-protein phosphatase-like N (R-PTP-N),"PTP IA-2
+Islet cell antigen 512, ICA 512
+Islet cell autoantigen 3",Homo sapiens (Human):9606,Protein>Others,Q16849,"2I1Y, 2QT7, 3N01, 3N4W, 3NG8, 3NP5",Protein tyrosine phosphatase-like IA-2 autoantigen is one of the major targets of humoral autoimmunity in patients with insulin-dependant diabetes mellitus (IDDM).
+4,"Apical membrane antigen 1, AMA1",NULL,Plasmodium falciparum (isolate 3D7):36329,Protein>Others,Q7KQK5,"1Z40, 2Q8A, 2Q8B, 2Z8V, 2Z8W, 3SRJ, 3ZWZ",Apical membrane antigen 1 (AMA1) of the malaria parasite Plasmodium falciparum is an integral membrane protein that plays a key role in merozoite invasion of host erythrocytes.
+5,"RNA helicase A, RHA",Nuclear DNA helicase II,Homo sapiens (Human):9606,Protein>Enzyme,GI:2301365,NULL,"RNA helicase A (RHA), a member of the DEXH box helicase family  of  proteins,  is  an  integral  component  of  protein complexes  that  regulate  transcription  and  splicing."
+6,B-lymphocyte antigen CD20,"B-lymphocyte surface antigen B1
+Bp35
+Leukocyte surface antigen Leu-16
+Membrane-spanning 4-domains subfamily A member 1
+CD_antigen=CD20",Homo sapiens (Human):9606,Protein>Others,P11836,"2OSL, 3BKY, 3PP4",CD20 is an activated-glycosylated phosphoprotein expressed on the surface of all B-cells beginning at the pro-B phase and progressively increasing in concentration until maturity. It plays a role in the regulation of B-cell activation and proliferation.
+7,Interleukin-2 receptor subunit alpha,"IL-2 receptor subunit alpha, IL-2R subunit alpha, IL-2-RA, IL2-RA
+p55
+TAC antigen
+CD_antigen=CD25",Homo sapiens (Human):9606,Protein>Receptor,P01589,"2B5I, 1Z92, 2ERJ, 3IU3, 3NFP","The interleukin-2 receptor (IL-2R) exists in 3 different forms: a low affinity monomer (α subunit), an intermediate dimer (β and γ subunits) and a high affinity trimer (α, β and γ subunits). The α and β subunits are involved in binding IL-2, while signal transduction following cytokine interaction is carried out by the γ subunit, along with the β subunit."
+8,Envelope glycoprotein E2,"NS1
+gp68
+gp70",Hepatitis C virus genotype 1a (isolate H) (HCV):11108,Protein>Others,P27958 [384-746],"1A1R, 1A1V, 1CWX, 1HEI, 1JR6, 1N1L, 1ONB, 1R7C, 1R7D, 1R7E, 1R7F, 1R7G, 1R7Q, 1RGQ, 2A4R, 2F9V, 2HD0, 2JXF, 2KDR, 2O8M, 2OBO, 2OBQ, 2OC0, 2OC1, 2OC7, 2OC8, 2OIN, 2P59, 2XI2, 2XI3","The genome polyprotein is further processed into at least 11 mature proteins. E2 glycoprotein is one of them. E1 and E2 glycoproteins form a heterodimer that is involved in virus attachment to the host cell, virion internalization through clathrin-dependent endocytosis and fusion with host membrane. E1/E2 heterodimer binds to human LDLR, CD81 and SCARB1/SR-BI receptors, but this binding is not sufficient for infection, some additional liver specific cofactors may be needed. The fusion function may possibly be carried by E1. E2 inhibits human EIF2AK2/PKR activation, preventing the establishment of an antiviral state. E2 is a viral ligand for CD209/DC-SIGN and CLEC4M/DC-SIGNR, which are respectively found on dendritic cells (DCs), and on liver sinusoidal endothelial cells and macrophage-like cells of lymph node sinuses."
+9,P235 rhoptry protein,NULL,Plasmodium yoelii yoelii:73239,Protein>Others,"Q9GNA2, Q9GSB8",NULL,NULL
+10,Ochratoxin A,"OTA
+IUPAC: N-​{[(3R)-​5-​chloro-​8-​hydroxy-​3-​methyl-​1-​oxo-​3,​4-​dihydro-​1H-​isochromen-​7-​yl]​carbonyl}-​L-​phenylalanine
+(R)-N- [(5-Chloro- 3,4-dihydro- 8-hydroxy- 3-methyl- 1-oxo- 1H-2-benzopyran-7-yl) -carbonyl]- L- phenylalanine
+(-)-N- [(5-Chloro- 8-hydroxy- 3-methyl- 1-oxo- 7-isochromanyl) carbonyl]- 3-phenylalanine",Unknown,Organic molecules or materials,"CID: 442530
+SMILES: O=C(O)[C@@H](NC(=O)c1c(O)c2c(c(Cl)c1)C[C@H](OC2=O)C)Cc3ccccc3",NULL,"Ochratoxin A is a toxin produced by Aspergillus ochraceus, Aspergillus carbonarius and Penicillium verrucosum. It is one of the most abundant food-contaminating mycotoxins in the world. Human exposure occurs mainly through consumption of improperly stored food products. Ochratoxin A is potentially carcinogenic to humans."
+11,Aflatoxin B1,"AFB1
+PDB component identifier: AFT",Unknown,Organic molecules or materials,"CID: 14403
+SMILES: O=C5C=4C(=O)Oc3c1c(OC2O\C=C/C12)cc(OC)c3C=4CC5",2XI4,Aflatoxin B1 is one of naturally occurring mycotoxins that are produced by many species of Aspergillus. It is hepatotoxic and among the most carcinogenic substances known.
+12,Arginine kinase,"Allergen Per a 9
+EC=2.7.3.3",Periplaneta americana (American cockroach):6978,Protein>Enzyme,A1KY39,NULL,"The arginine kinase of American cockroach is a major cockroach allergen. In a report, It reacted to IgE in the sera of all of the cockroach-allergic Thai patients by immunoblotting, implying its high allergenicity. "
+13,Cholera enterotoxin subunit B,"Cholera enterotoxin B chain
+Cholera enterotoxin gamma chain
+Choleragenoid",Vibrio cholerae:666,Protein>Others,P01556,"1CHP, 1CHQ,1CT1, 1FGB, 1G8Z, 1JR0, 1MD2,1RCV, 1RD9, 1RDP, 1RF2, 1S5B, 1S5C, 1S5D, 1S5E, 1S5F, 1XTC, 2CHB, 3CHB, 3EFX","Cholera toxin (CTX) is a protein complex secreted by the bacterium Vibrio cholerae, which is responsible for the massive, watery diarrhea characteristic of cholera infection. The cholera toxin is a complex made up of a single copy of the A subunit (enzymatic) and five copies of the B subunit (receptor binding)."
+14,Capsular polysaccharide Vi antigen (ViCPS),Vi polysaccharide antigen,Salmonella typhi:90370,Organic molecules or materials,NULL,NULL,The salmonella Vi Capsular polysaccharide is a linear homopolymer of α[1-->4]-O-acetyl-N-acetyl-galactosaminuronic acid. It is an important virulence factor. The Vi capsule shields the bacteria against phagocytosis by its surface negative charge properties and by covering cell-envelope components sensitive to serum opsonins.
+15,Interleukin-4,"IL-4
+B-cell stimulatory factor 1, BSF-1
+Lymphocyte stimulatory factor 1
+IGG1 induction factor
+B-cell IgG differentiation factor
+B-cell growth factor 1",Mus musculus (Mouse):10090,Protein>Others,P07750,NULL,"Interleukin-4 is a cytokine participating in at least several B-cell activation processes as well as of other cell types, for example, inducing differentiation of naive helper T cells (Th0 cells) to Th2 cells. It induces the expression of class II MHC molecules on resting B-cells. It enhances both secretion and cell surface expression of IgE and IgG1. It is closely related and has functions similar to Interleukin-13."
+16,Vitronectin,"S-protein
+Serum-spreading factor
+VTN, V75",Homo sapiens (Human):9606,Protein>Others,P04004,"1OC0, 1S4G, 1SSU, 2JQ8, 3BT1, 3BT2",Vitronectin is a cell adhesion and spreading factor found in serum and tissues. Vitronectin interact with glycosaminoglycans and proteoglycans. It is recognized by certain members of the integrin family and serves as a cell-to-substrate adhesion molecule. It is also inhibitor of the membrane-damaging effect of the terminal cytolytic complement pathway.
+17,Cation-independent mannose-6-phosphate receptor,"CI Man-6-P receptor, CI-MPR, M6PR
+Insulin-like growth factor 2 receptor
+Insulin-like growth factor II receptor, IGF-II receptor
+M6P/IGF2 receptor, M6P/IGF2R
+300 kDa mannose 6-phosphate receptor, MPR 300
+CD_antigen=CD222",Homo sapiens (Human):9606,Protein>Receptor,P11717,"1E6F, 1GP0, 1GP3, 1GQB, 1JWG, 1LF8, 2CNJ, 2L29, 2L2A, 2V5N, 2V5O, 2V5P","Cation-independent mannose-6-phosphate receptor transports phosphorylated lysosomal enzymes from the Golgi complex and the cell surface to lysosomes. Lysosomal enzymes bearing phosphomannosyl residues bind specifically to mannose-6-phosphate receptors in the Golgi apparatus and the resulting receptor-ligand complex is transported to an acidic prelyosomal compartment where the low pH mediates the dissociation of the complex. This receptor also binds IGF2.  By binding DPP4, it acts as a positive regulator of T-cell coactivation as well."
+18,BAG family molecular chaperone regulator 1,"BAG-1
+Bcl-2-associated athanogene 1",Homo sapiens (Human):9606,Protein>Others,Q99933,"1HX1, 1WXV, 3FZF, 3FZH, 3FZK, 3FZL, 3FZM, 3LDQ, 3M3Z",NULL
+19,Epidermal growth factor receptor,"EGFR, HER1
+Receptor tyrosine-protein kinase ErbB-1
+Proto-oncogene c-ErbB-1
+EC=2.7.10.1",Homo sapiens (Human):9606,Protein>Receptor,P00533,"1IVO, 1M14, 1M17, 1MOX, 1NQL, 1XKK, 1YY9, 1Z9I, 2EB2, 2EB3, 2GS2, 2GS6, 2GS7, 2ITN, 2ITO, 2ITP, 2ITQ, 2ITT, 2ITU, 2ITV, 2ITW, 2ITX, 2ITY, 2ITZ, 2J5E, 2J5F, 2J6M, 2JIT, 2JIU, 2JIV, 2KS1, 2M20, 2RF9, 2RFD, 2RFE, 2RGP, 3B2U, 3B2V, 3BEL, 3BUO, 3C09, 3G5V, 3G5Y, 3GOP, 3GT8, 3IKA, 3LZB, 3NJP, 3OB2, 3OP0, 3P0Y, 3PFV, 3POZ, 3QWQ, 3UG1, 3UG2, 3VJN, 3VJO, 3VRP, 3VRR, 3W2O, 3W2P, 3W2Q, 3W2R, 3W2S, 3W32, 3W33, 4G5J, 4G5P, 4HJO, 4I1Z, 4I20, 4I21, 4I22, 4I23, 4I24","The epidermal growth factor receptor is the cell-surface receptor for EGF, but also for other members of the EGF family, such as TGF-alpha, BTC/betacellulin, AREGAREGB/amphiregulin, HBEGF, GP30 and vaccinia virus growth factor. Mutations affecting EGFR expression or activity could result in cancer."
+20,Receptor tyrosine-protein kinase erbB-2,"p185erbB2
+Proto-oncogene c-ErbB-2
+Proto-oncogene Neu
+Tyrosine kinase-type cell surface receptor HER2
+Metastatic lymph node gene 19 protein, MLN 19
+CD_antigen=CD340
+EC=2.7.10.1",Homo sapiens (Human):9606,Protein>Receptor,P04626,"1MFG, 1MFL, 1MW4, 1N8Z, 1QR1, 1S78, 2A91, 2JWA, 2KS1, 2L4K, 3BE1, 3H3B, 3MZW, 3N85, 3PP0, 3RCD","HER2 is a receptor tyrosine kinase embedded in the cell membrane. It is involved in the signal transduction pathways leading to cell growth and differentiation. In some cancers, notably some breast cancers, HER2 is over-expressed, which causes breast cells to reproduce uncontrollably."
+21,"Outer membrane protein 40, Omp40",PG33,Porphyromonas gingivalis (Bacteroides gingivalis):242619,Protein>Others,Q9S3R8,NULL,NULL
+22,von Willebrand factor (vWF),"von Willebrand antigen 2
+von Willebrand antigen II",Homo sapiens (Human):9606,Protein>Others,P04275,"1AO3, 1ATZ, 1AUQ, 1FE8, 1FNS, 1IJB, 1IJK, 1M10, 1OAK, 1SQ0, 1U0N, 1UEX, 2ADF, 2MHP, 2MHQ, 3GXB, 3HXO, 3HXQ, 3PPV, 3PPW, 3PPX, 3PPY, 3ZQK, 4C29, 4C2A, 4C2B, 4DMU, 4NT5","The von Willebrand factor is important in the maintenance of hemostasis. It promotes adhesion of platelets to the sites of vascular injury by forming a molecular bridge between sub-endothelial collagen matrix and platelet-surface receptor complex GPIb-IX-V. It also acts as a chaperone for coagulation factor VIII, delivering it to the site of injury, stabilizing its heterodimeric structure and protecting it from premature clearance from plasma."
+23,Coagulation factor VIII,"Procoagulant component
+Antihemophilic factor, AHF",Homo sapiens (Human):9606,Protein>Others,P00451,"1CFG, 1D7P, 1FAC, 1IQD, 2R7E, 3CDZ, 3HNB,	3HNY,	3HOB,	4BDV","Factor VIII is an essential blood clotting factor. Along with calcium and phospholipid, factor VIII acts as a cofactor for factor IXa when it converts factor X to the activated form, factor Xa. It also interacts with von Willebrand factor (vWF). vWF binding is essential for the stabilization of factor VIII in circulation. Defects in factor VIII results in hemophilia A, a well known recessive X-linked coagulation disorder."
+24,Spike glycoprotein,"S glycoprotein
+Peplomer protein
+E2",Human SARS coronavirus (SARS-CoV) (Severe acute respiratory syndrome coronavirus):227859,Protein>Others,P59594,"1WNC, 1WYY, 1ZV7, 1ZV8, 1ZVB, 2AJF, 2BEQ, 2BEZ, 2DD8, 2FXP, 2GHV, 2GHW, 3BGF, 3D0G, 3D0H, 3D0I, 3SCI, 3SCJ, 3SCK, 3SCL","Spike glycoprotein cleaves into two proteins: S1 and S2. Spike protein S1 attaches the virion to the cell membrane by interacting with human ACE2 and CLEC4M/DC-SIGNR, initiating the infection."
+25,Surface protein gp120 (SU),"Glycoprotein 120, gp120",Human immunodeficiency virus type 1 group M subtype B (isolate YU-2) (HIV-1):362651,Protein>Others,P35961 [32-498],"1G9N, 1YYL, 1YYM, 2I5Y, 2I60, 2NY7, 2QAD, 3HI1, 4DVR","The surface protein gp120 (SU) attaches the virus to the host lymphoid cell by binding to the primary receptor CD4. This interaction induces a structural rearrangement creating a high affinity binding site for a chemokine coreceptor like CXCR4 and/or CCR5. This peculiar 2 stage receptor-interaction strategy allows gp120 to maintain the highly conserved coreceptor-binding site in a cryptic conformation, protected from neutralizing antibodies. Surface protein gp120 (SU) may target the virus to gut-associated lymphoid tissue (GALT) by binding host ITGA4/ITGB7 (alpha-4/beta-7 integrins), a complex that mediates T-cell migration to the GALT. The surface protein gp120 is also a ligand for CD209/DC-SIGN and CLEC4M/DC-SIGNR, which are respectively found on dendritic cells (DCs), and on endothelial cells of liver sinusoids and lymph node sinuses. These interactions allow capture of viral particles at mucosal surfaces by these cells and subsequent transmission to permissive cells."
+26,"Neutrophil cytosol factor 1, NCF-1","Neutrophil NADPH oxidase factor 1
+47 kDa neutrophil oxidase factor
+p47-phox
+NCF-47K
+47 kDa autosomal chronic granulomatous disease protein
+Nox-organizing protein 2
+Nox organizer 2
+SH3 and PX domain-containing protein 1A",Homo sapiens (Human):9606,Protein>Others,P14598,"1GD5, 1K4U, 1KQ6, 1NG2, 1O7K, 1OV3, 1UEC, 1W70, 1WLP",NULL
+27,Cytochrome b-245 heavy chain,"p22 phagocyte B-cytochrome
+Neutrophil cytochrome b 91 kDa polypeptide
+Heme-binding membrane glycoprotein gp91phox
+CGD91-phox
+gp91-phox
+gp91-1
+Cytochrome b(558) subunit beta, Cytochrome b558 subunit beta
+Superoxide-generating NADPH oxidase heavy chain subunit
+NADPH oxidase 2",Homo sapiens (Human):9606,Protein>Others,P04839,3A1F,NULL
+28,Cytochrome b-245 light chain,"p22 phagocyte B-cytochrome
+Neutrophil cytochrome b 22 kDa
+polypeptide
+p22-phox
+Cytochrome b(558) alpha chain
+Cytochrome b558 subunit alpha
+Superoxide-generating NADPH oxidase light chain subunit",Homo sapiens (Human):9606,Protein>Others,P13498,1WLP,NULL
+29,Sperm,NULL,Homo sapiens (Human):9606,Cell,NULL,NULL,NULL
+30,Fibrinogen alpha chain,Fibrinopeptide A,Rattus norvegicus (Rat):10116,Protein>Others,P06399,NULL,NULL
+31,Envelope glycoprotein gp160,NULL,Simian-Human immunodeficiency virus:57667,Protein>Others,NULL,NULL,NULL
+32,"Melanotropin alpha, Alpha-MSH",NULL,Homo sapiens (Human):9606,Protein>Others,P01189 [138-150],NULL,NULL
+33,Iron(3+)-hydroxamate-binding protein fhuD,"Iron(III)-hydroxamate-binding protein fhuD
+Ferrichrome-binding periplasmic protein
+Ferric hydroxamate uptake protein D",Escherichia coli (strain K12):83333,Protein>Others,P07822,"1EFD, 1ESZ, 1K2V, 1K7S",NULL
+34,Protein tonB,NULL,Escherichia coli (strain K12):83333,Protein>Others,P02929,"1IHR, 1QXX, 1U07, 1XX3, 2GRX, 2GSK",NULL
+35,E(rns) glycoprotein,gp44/48,Classical swine fever virus (strain Alfort) (CSFV) (Hog cholera virus):11097,Protein>Others,P19712 [268-494],NULL,NULL
+36,"High molecular weight melanoma-mssociated antigen, HMW-MAA",NULL,Homo sapiens (Human):9606,Protein>Others,NULL,NULL,The high molecular weight melanoma-associated antigen (HMW-MAA) is highly expressed in advanced primary and metastatic melanoma.
+37,Signal transduction protein TRAP,Target of RNAIII-activating protein,Staphylococcus aureus (strain NCTC 8325):93061,Protein>Others,Q2G2F3,4AE5,NULL
+38,PSA-α2M complexes,"PSA alternative name(s):
+Prostate-specific antigen
+Kallikrein-3
+Semenogelase
+Gamma-seminoprotein, Seminin
+P-30 antigen
+
+α2M alternative name(s):
+Alpha-2-macroglobulin, Alpha-2-M
+C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5",Homo sapiens (Human):9606,Protein>Others,"P07288, P01023","1BV8, 2P9R, 4ACQ, 2ZCH, 2ZCK, 2ZCL, 3QUM",NULL
+39,"DNA repair protein RAD51 homolog 3, R51H3","RAD51-like protein 2
+RAD51 homolog C",Homo sapiens (Human):9606,Protein>Others,O43502,NULL,NULL
+40,Gastric cancer-associated antigen,NULL,Homo sapiens (Human):9606,Protein>Others,NULL,NULL,NULL
+41,Type 8 capsular polysaccharide,Type 8 PS,Streptococcus pneumoniae:1313,Organic molecules or materials,NULL,NULL,NULL
+42,Capsid protein,"Protein ORF2, pORF2",Hepatitis E virus genotype 4 (isolate Human/China/T1) (HEV-4) (Hepatitis E virus genotype 4 (isolate Human/China/Ct1)):509627,Protein>Others,Q9IVZ8,3HAG,NULL
+43,Hantaan virus,NULL,Homo sapiens (Human):9606,Virus,NULL,NULL,NULL
+44,Gibberellin 3-beta-dioxygenase 1,"Gibberellin 3 beta-hydroxylase 1
+GA 3-oxidase 1, AtGA3ox1",Arabidopsis thaliana (Mouse-ear cress):3702,Protein>Others,Q39103,NULL,NULL
+45,Interferon alpha-2,"IFN-alpha-2
+Interferon alpha-A, LeIF A",Homo sapiens (Human):9606,Protein>Others,P01563,"1ITF, 1RH2, 2HYM, 2KZ1, 2LAG, 2LMS, 3S9D, 3SE3","Three polymorphism forms exist: alpha-2a, alpha-2b and alpha-2c.
+"
+46,Glucokinase,"Hexokinase type IV, HK IV
+Hexokinase-4, HK4
+Hexokinase-D
+EC=2.7.1.2",Homo sapiens (Human):9606,Protein>Enzyme,P35557,"1V4S, 1V4T, 3A0I, 3F9M, 3FGU, 3FR0, 3GOI, 3H1V, 3ID8, 3IDH, 3IMX, 3QIC, 3S41, 3VEV, 3VEY, 3VF6, 4DCH, 4DHY, 4ISE, 4ISF, 4ISG, 4IWV, 4IXC",NULL
+47,Telomerase reverse transcriptase,"Telomerase catalytic subunit
+HEST2
+Telomerase-associated protein 2, TP2",Homo sapiens (Human):9606,Protein>Others,O14746,2BCK,NULL
+48,Leukocyte surface antigen CD47,"Integrin-associated protein, IAP
+Antigenic surface determinant protein OA3
+Protein MER6
+CD_antigen=CD47",Homo sapiens (Human):9606,Protein>Others,Q08722,"2JJS, 2JJT, 2VSC",NULL
+49,"Fibronectin, FN","Cold-insoluble globulin, CIG",Homo sapiens (Human):9606,Protein>Others,P02751,"1E88, 1E8B, 1FBR, 1FNA, 1FNF, 1FNH, 1J8K, 1O9A, 1OWW, 1Q38, 1QGB, 1QO6, 1TTF, 1TTG, 2CG6, 2CG7, 2CK2, 2CKU, 2EC3, 2FN2, 2FNB, 2GEE, 2H41, 2H45, 2HA1, 2OCF, 2RKY, 2RKZ, 2RL0, 3CAL, 3EJH, 3GXE, 3M7P, 3MQL, 3R8Q, 3T1W, 3ZRZ, 4GH7",NULL
+50,Lactotransferrin,"Lactoferrin
+Talalactoferrin",Homo sapiens (Human):9606,Protein>Others,P02788,"1B0L, 1BKA, 1CB6, 1DSN, 1EH3, 1FCK, 1H43, 1H44, 1H45, 1HSE, 1L5T, 1LCF, 1LCT, 1LFG, 1LFH, 1LFI, 1LGB, 1N76, 1SQY, 1U62, 1VFD, 1VFE, 1XV4, 1XV7, 1Z6V, 1Z6W, 2BJJ, 2DP4, 2GMC, 2GMD, 2HD4, 2PMS",NULL
+51,Parvalbumin beta,NULL,Cyprinus carpio (Common carp):7962,Protein>Others,P02618,"1B8C, 1B8L, 1B8R, 1B9A, 1CDP, 4CPV, 5CPV",NULL
+52,Nucleoprotein,"Protein N
+Nucleocapsid protein",Nipah virus:121791,Protein>Others,Q9IK92,NULL,NULL
+53,L-asparaginase 2,"L-asparaginase II, L-ASNase II
+L-asparagine amidohydrolase II
+INN=Colaspase
+EC=3.5.1.1",Escherichia coli (strain K12):83333,Protein>Enzyme,P00805,"1HO3, 1IHD, 1JAZ, 1JJA, 1NNS, 3ECA, 4ECA",NULL
+54,"Neutral polysaccharides, NPS",NULL,Mycobacterium tuberculosis:1773,Organic molecules or materials,NULL,NULL,NPS (neutral polysaccharides) is an M. tuberculosis cell-surface fraction.
+55,Glycoprotein G,NULL,Rabies virus (strain ERA) (RABV):11295,Protein>Others,P03524,3NFK,NULL
+56,Corticotropin,"Adrenocorticotropic hormone, ACTH",Homo sapiens (Human):9606,Protein>Others,P01189 [138-176],NULL,NULL
+57,Integrin beta-3,"Platelet membrane glycoprotein IIIa, GPIIIa
+CD_antigen=CD61",Homo sapiens (Human):9606,Protein>Others,P05106,"1JV2, 1KUP, 1KUZ, 1L5G, 1M1X, 1M8O, 1MK7, 1MK9, 1S4X, 1TYE, 1U8C, 2K9J, 2KNC, 2KV9, 2L1C, 2L91, 2LJD, 2LJE, 2LJF, 2Q6W, 2RMZ, 2RN0, 2VC2, 2VDK, 2VDL, 2VDM, 2VDN, 2VDO, 2VDP, 2VDQ, 2VDR, 3FCS, 3FCU, 3IJE, 3NID, 3NIF, 3NIG, 3T3M, 3T3P, 4G1E, 4G1M",NULL
+58,Apical membrane antigen-1,NULL,Plasmodium yoelii:5861,Protein>Others,Q26225,NULL,NULL
+59,Anti-digoxin antibody 26-10 Fab,NULL,Mus musculus (Mouse):10090,Protein>Others,"GI:349889, GI:349890","1IGI, 1IGJ",NULL
+60,Colicin-A,NULL,Citrobacter freundii:546,Protein>Others,P04480,"3IAX, 3QDR",NULL
+61,Surface protein gp120 (SU),"Glycoprotein 120, gp120",Human immunodeficiency virus type 1 (isolate HXB2 group M subtype B) (HIV-1):11706,Protein>Others,P04578 [33-511],"1AIK, 1DF4, 1DF5, 1DLB, 1G9M, 1GC1, 1GZL, 1K33, 1K34, 1RZJ, 2CMR, 2NY7, 2PV6, 2XRA, 3DNL, 3DNN, 3DNO, 3IDX, 3IDY, 3TYG, 3VIE, 4JPJ, 4JPK","The surface protein gp120 (SU) attaches the virus to the host lymphoid cell by binding to the primary receptor CD4. This interaction induces a structural rearrangement creating a high affinity binding site for a chemokine coreceptor like CXCR4 and/or CCR5. This peculiar 2 stage receptor-interaction strategy allows gp120 to maintain the highly conserved coreceptor-binding site in a cryptic conformation, protected from neutralizing antibodies. Surface protein gp120 (SU) may target the virus to gut-associated lymphoid tissue (GALT) by binding host ITGA4/ITGB7 (alpha-4/beta-7 integrins), a complex that mediates T-cell migration to the GALT. The surface protein gp120 is also a ligand for CD209/DC-SIGN and CLEC4M/DC-SIGNR, which are respectively found on dendritic cells (DCs), and on endothelial cells of liver sinusoids and lymph node sinuses. These interactions allow capture of viral particles at mucosal surfaces by these cells and subsequent transmission to permissive cells."
+62,Capsid protein p24,CA,Human immunodeficiency virus type 1 group M subtype B (isolate HXB2) (HIV-1):11706,Protein>Others,P04585 [133-363],"1A30, 1BV7, 1BV9, 1BVE, 1BVG, 1BWA, 1BWB, 1C0T, 1C0U, 1C1B, 1C1C, 1DMP, 1DTQ, 1DTT, 1E6J, 1EP4, 1ESK, 1EX4, 1EXQ, 1FB7, 1FK9, 1FKO, 1FKP, 1G6L, 1HIV, 1HVH, 1HVR, 1HWR, 1HXB, 1JKH, 1JLA, 1JLB, 1JLC, 1JLE, 1JLF, 1JLG, 1JLQ, 1KLM, 1LV1, 1LW0, 1LW2, 1LWC, 1LWE, 1LWF, 1NCP, 1O1W, 1ODW, 1ODY, 1QBR, 1QBS, 1QBT, 1QBU, 1REV, 1RT1, 1RT2, 1RT3, 1RT4, 1RT5, 1RT6, 1RT7, 1RTD, 1RTH, 1RTI, 1RTJ, 1S1T, 1S1U, 1S1V, 1S1W, 1S1X, 1T05, 1TAM, 1TKT, 1TKX, 1TKZ, 1TL1, 1TL3, 1VRT, 1VRU, 2HND, 2HNY, 2HNZ, 2KOD, 2NPH, 2OPP, 2OPQ, 2OPR, 2OPS, 2RF2, 2RKI, 2WHH, 2WOM, 2WON, 2YNF, 2YNG, 2YNH, 2YNI, 3AO2, 3C6T, 3C6U, 3DI6, 3DLE, 3DLG, 3DM2, 3DMJ, 3DOK, 3DOL, 3DOX, 3DRP, 3DRR, 3DRS, 3DYA, 3E01, 3FFI, 3I0R, 3I0S, 3KJV, 3KK1, 3KK2, 3KK3, 3KT2, 3KT5, 3LAK, 3LAL, 3LAM, 3LAN, 3LP0, 3LP1, 3LP2, 3M8P, 3M8Q, 3MEC, 3MED, 3MEE, 3MEG, 3MIM, 3N3I, 3NBP, 3PHV, 3QIN, 3QIO, 3QIP, 3T19, 3T1A, 3TAM, 4B3O, 4B3P, 4B3Q, 4I7F","Capsid protein p24 is the major capsid protein of HIV, which plays an active structural role both as part of the Gag polyprotein and in its processed form during virus assembly, maturation, and disassembly. It forms the conical core that encapsulates the genomic RNA-nucleocapsid complex inside the lipid bilayer of mature virions."
+63,"L3,7,9 lipopolysaccharides (LPS)",NULL,Neisseria meningitidis:487,Organic molecules or materials,NULL,NULL,NULL
+64,Integrin beta-5,NULL,Homo sapiens (Human):9606,Protein>Others,P18084,NULL,NULL
+65,Ferritin,NULL,Schistosoma japonicum (Blood fluke):6182,Protein>Others,Q5DCX4,NULL,NULL
+66,Tumor necrosis factor receptor superfamily member 6,"FASLG receptor
+Apoptosis-mediating surface antigen FAS
+Apo-1 antigen
+CD_antigen=CD95",Homo sapiens (Human):9606,Protein>Receptor,P25445,"1DDF, 3EWT, 3EZQ, 3THM, 3TJE",NULL
+67,GD2 ganglioside,NULL,Homo sapiens (Human):9606,Organic molecules or materials,NULL,NULL,NULL
+68,Mycoplasma hyopneumoniae,NULL,Sus scrofa (pig):9823,Cell,NULL,NULL,NULL
+69,Calpastatin,"Calpain inhibitor
+Sperm BS-17 component",Homo sapiens (Human):9606,Protein>Others,P20810,NULL,NULL
+70,Luteinizing hormone-releasing hormone I,"LH-RH I
+Gonadoliberin I
+Gonadotropin-releasing hormone I, GnRH-I
+Luliberin I
+Gonadorelin
+Progonadoliberin-1
+Progonadoliberin I",Homo sapiens (Human):9606,Protein>Others,P01148,NULL,NULL
+71,Leptospira,NULL,Leptospira:171,Cell,NULL,NULL,NULL
+72,ManLAM,Mannosylated lipoarabinomannan,Mycobacterium tuberculosis:1773,Organic molecules or materials,NULL,NULL,NULL
+73,50S ribosomal protein L2,NULL,Staphylococcus aureus:1280,Protein>Others,A6QJ89,NULL,NULL
+74,"Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex, mitochondrial","Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex
+Pyruvate dehydrogenase complex component E2, PDC-E2, PDCE2
+70 kDa mitochondrial autoantigen of primary biliary cirrhosis, PBC
+M2 antigen complex 70 kDa subunit
+Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex, mitochondrial
+EC=2.3.1.12",Homo sapiens (Human):9606,Protein>Enzyme,P10515,"1FYC, 1Y8N, 1Y8O, 1Y8P, 2DNE, 2PNR, 2Q8I, 3B8K, 3CRK, 3CRL",NULL
+75,Globotriaosylceramide (Gb3Cer),NULL,Unknown,Organic molecules or materials,NULL,NULL,NULL
+76,"Intercellular adhesion molecule 1, ICAM-1","Major group rhinovirus receptor
+CD_antigen=CD54",Homo sapiens (Human):9606,Protein>Receptor,P05362,"1D3E, 1D3I, 1D3L, 1IAM, 1IC1, 1MQ8, 1P53, 1Z7Z, 2OZ4, 3TCX",NULL
+77,"Non-structural protein 4A, NS4A",p8,Hepatitis C virus genotype 1a (isolate 1) (HCV):11104,Protein>Others,P26664 [1658-1711],"1RTL, 2A4G, 2GVF, 3EYD, 3HKW, 3KN2, 3QGH, 3QGI, 3RC4, 3RC5",NULL
+78,Ferrichrome-iron receptor,"Ferric hydroxamate uptake
+Ferric hydroxamate receptor",Escherichia coli (strain K12):83333,Protein>Receptor,P06971,"1BY3, 1BY5, 1FCP, 1FI1, 1QFF, 1QFG, 1QJQ, 1QKC, 2FCP, 2GRX",NULL
+79,Vitamin B12 transporter btuB,"Cobalamin receptor
+Outer membrane cobalamin translocator",Escherichia coli (strain K12):83333,Protein>Receptor,P06129,"1NQE, 1NQF, 1NQG, 1NQH, 1UJW, 2GSK, 2GUF, 2YSU, 3M8B, 3M8D, 3RGM, 3RGN",NULL
+80,Fe(3+) dicitrate transport protein fecA,Iron(III) dicitrate transport protein fecA,Escherichia coli (strain K12):83333,Protein>Others,P13036,"1KMO, 1KMP, 1PNZ, 1PO0, 1PO3, 1ZZV, 2D1U",NULL
+81,Ferrienterobactin receptor,Enterobactin outer-membrane receptor,Escherichia coli (strain K12):83333,Protein>Receptor,P05825,1FEP,NULL
+82,"Tenascin,TN","Tenascin-C, TN-C
+Hexabrachion
+Cytotactin
+Neuronectin
+GMEM
+JI
+Myotendinous antigen
+Glioma-associated-extracellular matrix antigen
+GP 150-225",Homo sapiens (Human):9606,Protein>Others,P24821,"1TEN, 2RB8, 2RBL",NULL
+83,"Microcystin-LR, MC-LR",NULL,Cyanobacteria:1117,Protein>Others,NULL,NULL,"Microcystins are a group of stable cyclic heptapeptide toxins produced by cyanobacterial blooms, which cause environmental contamination."
+84,Disialoganglioside GD2,NULL,Homo sapiens (Human):9606,Organic molecules or materials,NULL,NULL,NULL
+85,"Pro-epidermal growth factor, EGF",NULL,Homo sapiens (Human):9606,Protein>Others,P01133,"1IVO, 1JL9, 1NQL, 1P9J, 2KV4, 3NJP",NULL
+86,"Envelope glycoprotein E, gE",NULL,Bovine herpesvirus 1.2 (strain ST) (BoHV-1) (Infectious bovine rhinotracheitis virus):45407,Protein>Others,Q08101,NULL,NULL
+87,Hemagglutinin glycoprotein,NULL,Measles virus (strain Halle) (MeV) (Subacute sclerose panencephalitis virus):11236,Protein>Others,P06830,NULL,NULL
+88,Pollen allergen Phl p 5a,"Allergen Phl p Va
+Allergen=Phl p 5a",Phleum pratense (Common timothy):15957,Protein>Others,Q40962,NULL,NULL
+89,"Myelin basic protein, MBP","Myelin A1 protein
+Myelin membrane encephalitogenic protein",Homo sapiens (Human):9606,Protein>Others,P02686,"1BX2, 1FV1, 1HQR, 1YMM, 1ZGL",NULL
+90,Shiga toxin,Verotoxin,Escherichia coli O157:H7:83334,Protein>Others,NULL,NULL,NULL
+91,ATP,NULL,Unknown,Organic molecules or materials,NULL,NULL,NULL
+92,Nucleosome,NULL,Unknown,Miscellaneous,NULL,NULL,NULL
+93,"Meningococcal serogroup C capsular polysaccharide, MCPS",NULL,Homo sapiens (Human):9606,Organic molecules or materials,NULL,NULL,NULL
+94,C-C chemokine receptor type 5,"C-C CKR-5, CC-CKR-5, CCR-5, CCR5
+HIV-1 fusion coreceptor
+CHEMR13
+CD_antigen=CD195",Homo sapiens (Human):9606,Protein>Receptor,P51681,"2L87, 2RLL, 2RRS",NULL
+95,Mycobacterium bovis BCG,NULL,Unknown,Cell,NULL,NULL,NULL
+96,"Vascular endothelial growth factor receptor 1, VEGFR-1","Vascular permeability factor receptor
+Tyrosine-protein kinase receptor FLT
+Tyrosine-protein kinase FRT
+Fms-like tyrosine kinase 1, FLT-1
+EC=2.7.10.1",Homo sapiens (Human):9606,Protein>Enzyme,P17948,"1FLT, 1QSV, 1QSZ, 1QTY, 1RV6, 2XAC, 3HNG, 4CKV, 4CL7",NULL
+97,Protease inhibitors,NULL,Unknown,Protein>Others,NULL,NULL,NULL
+98,"Interleukin-4, IL-4","B-cell stimulatory factor 1, BSF-1
+Lymphocyte stimulatory factor 1
+Binetrakin
+Pitrakinra",Homo sapiens (Human):9606,Protein>Others,P05112,"1BBN, 1BCN, 1CYL, 1HIJ, 1HIK, 1HZI, 1IAR, 1ITI, 1ITL, 1ITM, 1RCB, 2B8U, 2B8X, 2B8Y, 2B8Z, 2B90, 2B91, 2CYK, 2D48, 2INT, 3BPL, 3BPN, 3QB7",NULL
+99,Natural killer cells antigen CD94,"NK cell receptor
+Killer cell lectin-like receptor subfamily D member 1
+KP43
+CD_antigen=CD94",Homo sapiens (Human):9606,Protein>Receptor,Q13241,"1B6E, 3BDW, 3CDG, 3CII",NULL
+100,"Hepatitis A virus, HAV",NULL,Hepatitis A virus:12092,Virus,NULL,NULL,NULL
+101,Neisseria meningitidis serogroup B capsular polysaccharide (MenB CP),NULL,Neisseria meningitidis:487,Organic molecules or materials,NULL,NULL,NULL
+102,PPAR-gamma coactivators,NULL,Homo sapiens (Human):9606,Protein>Others,NULL,NULL,NULL
+103,"Mucin-1, MUC-1","Polymorphic epithelial mucin, PEM
+PEMT
+Episialin
+Tumor-associated mucin
+Carcinoma-associated mucin
+Tumor-associated epithelial membrane antigen, EMA
+H23AG
+Peanut-reactive urinary mucin, PUM
+Breast carcinoma-associated antigen DF3
+CD_antigen=CD227",Homo sapiens (Human):9606,Protein>Others,P15941,"2ACM, 2FO4","The mucin-1 is a very large and heavily glycosylated protein, normally presented on the luminal surface of various secretory epithelial cells such as breast, ovaries, prostate, lung, and colon."
+104,Calreticulin,"CRP55
+Calregulin
+HACBP
+Endoplasmic reticulum resident protein 60, ERp60
+grp60",Homo sapiens (Human):9606,Protein>Others,P27797,"2CLR, 3DOW, 3POS, 3POW",NULL
+105,Hepatocyte growth factor-hepatocyte growth factor receptor complex (HGF-cMET),"Hepatocyte growth factor alternative name(s):
+Scatter factor, SF
+Hepatopoeitin-A
+
+Hepatocyte growth factor receptor alternative name(s):
+HGF receptor
+Scatter factor receptor, SF receptor
+HGF/SF receptor
+Tyrosine-protein kinase Met
+Proto-oncogene c-Met",Homo sapiens (Human):9606,Protein>Others,"P14210, P08581","1BHT, 1GMN, 1GMO, 1GP9, 1NK1, 1SHY, 1SI5, 2HGF, 2QJ2, 3HMS, 3HMT, 3HN4, 3MKP, 3SP8, 1FYR, 1R0P, 1R1W, 1SHY, 1SSL, 2G15, 2RFN, 2RFS, 2UZX, 2UZY, 2WD1, 2WGJ, 2WKM, 3A4P, 3BUX, 3C1X, 3CCN, 3CD8, 3CE3, 3CTH, 3CTJ, 3DKC, 3DKF, 3DKG, 3EFJ, 3EFK, 3F66, 3F82, 3I5N, 3L8V, 3LQ8, 3Q6U, 3Q6W, 3QTI, 3R7O, 3RHK, 3U6H, 3U6I, 3ZXZ, 3ZZE, 4AOI, 4AP7, 4DEG, 4DEH, 4DEI, 4EEV, 4GG5, 4GG7",NULL
+106,N-acetylglucosaminyl-beta1-4-N-acetylmuramyl-alanyl-d-isoglutamine (GMDP),NULL,Unknown,Organic molecules or materials,NULL,NULL,"N-acetylglucosaminyl-beta1-4-N-acetylmuramyl-alanyl-d-isoglutamine, also known as glucosaminylmuramyl dipeptide (GMDP), is the repeating unit of murein, which is a component of bacterial cell wall. GMDP has a strong immunomodulatory activity. In this study, GMDP was synthesized."
+107,Peptide PYANPSL,NULL,None,Protein>Others,NULL,NULL,PYANPSL is selected from a phage library with rituximab and is regarded as a mimotope of CD20.
+108,Peptide WAANPSM,NULL,None,Protein>Others,NULL,NULL,WAANPSM is selected from a phage library with rituximab and is regarded as a mimotope of CD20.
+109,Hepatocyte growth factor,"Scatter factor, SF
+Hepatopoeitin-A",Homo sapiens (Human):9606,Protein>Others,P14210,"1BHT, 1GMN, 1GMO, 1GP9, 1NK1, 1SHY, 1SI5, 2HGF, 2QJ2, 3HMS, 3HMT, 3HN4, 3MKP, 3SP8, 4K3J, 4O3T, 4O3U",NULL
+110,"Angiotensin-converting enzyme, ACE","Dipeptidyl carboxypeptidase I
+Kininase II
+CD_antigen=CD143
+EC=3.2.1.-
+EC=3.4.15.1",Homo sapiens (Human):9606,Protein>Enzyme,P12821,"1O86, 1O8A, 1UZE, 1UZF, 2C6F, 2C6N, 2IUL, 2IUX, 2OC2, 2XY9, 2XYD, 2YDM, 3BKK, 3BKL, 3L3N, 3NXQ, 4APH, 4APJ",NULL
+111,Envelope glycoprotein gp160,Env polyprotein,Human immunodeficiency virus type 1 group M subtype B (isolate BH10) (HIV-1):11678,Protein>Others,P03375,"2ARI, 3VGY, 3VH7, 3VU5, 3VU6",NULL
+112,Monoclonal antibody 4B4,NULL,Unknown,Protein>Monoclonal antibody,NULL,NULL,NULL
+113,T-cell surface glycoprotein CD4,"T-cell surface antigen T4/Leu-3
+CD_antigen=CD4",Homo sapiens (Human):9606,Protein>Others,P01730,"1CDH, 1CDI, 1CDJ, 1CDU, 1CDY, 1G9M, 1G9N, 1GC1, 1JL4, 1Q68, 1RZJ, 1RZK, 1WBR, 1WIO, 1WIP, 1WIQ, 2B4C, 2JKR, 2JKT, 2KLU, 2NXY, 2NXZ, 2NY0, 2NY1, 2NY2, 2NY3, 2NY4, 2NY5, 2NY6, 2QAD, 3B71, 3CD4, 3JWD, 3JWO, 3LQA, 3O2D, 3S4S, 3S5L, 3T0E",NULL
+114,Avibacterium paragallinarum strain 0083 (serovar A),NULL,Avibacterium paragallinarum strain 0083 (serovar A),Cell,NULL,NULL,NULL
+115,Heat-labile enterotoxin B chain,NULL,Clostridium perfringens:1502,Protein>Others,P01558,"2QUO, 2XH6, 2YHJ, 3AM2",NULL
+116,"Fc domain of IgG (IGHG1,IGHG2,IGHG3,IGHG4)",Human IgG Fc fragment,Homo sapiens (Human):9606,Protein>Polyclonal antibody,"P01857, P01859, P01860, P01861","IGHG1: 1AJ7, 1AQK, 1BEY, 1D5B, 1D5I, 1D6V, 1DFB, 1DN2, 1E4K, 1FC1, 1FC2, 1FCC, 1GAF, 1H3T, 1H3U, 1H3V, 1H3W, 1H3Y, 1HKL, 1HZH, 1I7Z, 1L6X, 1OP3, 1OQO, 1OQX, 1T83, 1T89, 1VGE, 2DTS, 2GJ7, 2I5Y, 2IWG, 2J6E, 2JB5, 2JB6, 2O5X, 2O5Y, 2O5Z, 2OSL, 2QAD, 2QL1, 2QQK, 2QQL, 2QQN, 2QR0, 2R56, 2RCS, 2VXQ, 3AGV, 3AVE, 3AY4, 3B2U, 3B2V, 3BDY, 3BE1, 3BKY, 3BN9, 3BQU, 3C08, 3C09, 3C2S, 3CFJ, 3CFK, 3CSY, 3D0L, 3D0V, 3D6G, 3D85, 3DJ9, 3DNK, 3DO3, 3DRO, 3DRQ, 3DVG, 3DVN, 3EYF, 3EYO, 3EYQ, 3RY6, 3S7G, 3SGJ, 3SGK, 3TV3, 3TWC, 3TYG, 3U0W, 3U7W, 3U7Y, 3V7M, 3V8C, 3V95, 4ACP, 4B7I, 4DZ8, 4EOW, 4J12
+IGHG2: 2QSC
+IGHG4: 1ADQ, 1BBJ, 2FL5, 4B53",NULL
+117,Cadherin-2,"Neural cadherin, N-cadherin
+CDw325
+CD_antigen=CD325",Homo sapiens (Human):9606,Protein>Others,P19022,NULL,NULL
+118,Hemagglutinin,NULL,Influenza A virus (strain A/Chicken/Hong Kong/YU22/2002 H5N1 genotype Z):284177,Protein>Others,Q6DQ18,NULL,NULL
+119,"Angiopoietin-1, ANG-1",NULL,Homo sapiens (Human):9606,Protein>Others,Q15389,"4EPU, 4JYO, 4K0V",NULL
+120,"Lipopolysaccharide, LPS",NULL,Burkholderia pseudomallei:28450,Organic molecules or materials,NULL,NULL,NULL
+121,"Exopolysaccharide, EPS",NULL,Burkholderia pseudomallei:28450,Organic molecules or materials,NULL,NULL,NULL
+122,"Non-specific lipid-transfer protein 1, LTP 1","Major allergen Pru p 3
+Allergen Pru p 1
+Allergen=Pru p 3",Prunus persica (Peach):3760,Protein>Others,P81402,"2ALG, 2B5S",NULL
+123,Catalase,NULL,Helicobacter pylori (Campylobacter pylori):210,Protein>Others,P77872,"1QWL, 1QWM, 2A9E, 2IQF",NULL
+124,"Nucleoprotein, Protein N",Nucleocapsid protein,Hendra virus:928303,Protein>Others,O89339,NULL,NULL
+125,Blood group A antigen,NULL,Homo sapiens (Human):9606,Protein>Others,NULL,2VNG,NULL
+126,Heat shock protein HSP90,NULL,Achlya ambisexualis (Water mold):4768,Protein>Others," Q8LLI5, Q8LLI6",NULL,NULL
+127,Heat shock protein DnaK,NULL,Escherichia coli:562,Protein>Others,C3TRK2,NULL,NULL
+128,"Cathepsin L1, Cathepsin L2",NULL,Fasciola hepatica:6192,Protein>Others,"Q09093, P80342",NULL,NULL
+129,Ig epsilon chain C region,NULL,Homo sapiens (Human):9606,Protein>Others,P01854,"1F6A, 1FP5, 1G84, 1O0V, 2WQR, 2Y7Q, 3H9Y, 3H9Z, 3HA0, 4EZM, 4GRG, 4GT7",NULL
+130,"Lipooligosaccharide, LOS",NULL,Haemophilus influenzae:727,Organic molecules or materials,NULL,NULL,NULL
+131,Ig gamma-1 chain C region,NULL,Homo sapiens (Human):9606,Protein>Others,P01857,"1AJ7, 1AQK, 1BEY, 1D5B, 1D5I, 1D6V, 1DFB, 1DN2, 1E4K, 1FC1, 1FC2, 1FCC, 1GAF, 1H3T, 1H3U, 1H3V, 1H3W, 1H3Y, 1HKL, 1HZH, 1I7Z, 1L6X, 1OP3, 1OQO, 1OQX, 1T83, 1T89, 1VGE, 2DTS, 2GJ7, 2I5Y, 2IWG, 2J6E, 2JB5, 2JB6, 2O5X, 2O5Y, 2O5Z, 2OSL, 2QAD, 2QL1, 2QQK, 2QQL, 2QQN, 2QR0, 2R56, 2RCS, 2VXQ, 3AGV, 3AVE, 3AY4, 3B2U, 3B2V, 3BDY, 3BE1, 3BKY, 3BN9, 3BQU, 3C08, 3C09, 3C2S, 3CFJ, 3CFK, 3CSY, 3D0L, 3D0V, 3D6G, 3D85, 3DJ9, 3DNK, 3DO3, 3DRO, 3DRQ, 3DVG, 3DVN, 3EYF, 3EYO, 3EYQ, 3RY6, 3S7G, 3SGJ, 3SGK, 3TV3, 3TWC, 3TYG, 3U0W, 3U7W, 3U7Y, 3V7M, 3V8C, 3V95, 4ACP, 4B7I, 4DZ8, 4EOW, 4J12",NULL
+132,Proline-rich transmembrane protein 2,NULL,Homo sapiens (Human):9606,Protein>Others,Q7Z6L0,NULL,NULL
+133,Histones H1 from calf thymus,NULL,Bos taurus (Bovine):9913,Protein>Others,NULL,NULL,"Mice were immunized eight times at 2-week intervals by the intraperitoneal administration of 50 μg of calf thymus histone H1 emulsified with Freund's complete adjuvant (FCA). In the final immunization, calf thymus histone H1 was administered without adding FCA."
+134,Tumor necrosis factor receptor superfamily member 5,"CD40L receptor
+B-cell surface antigen CD40
+Bp50
+CDw40
+CD_antigen=CD40",Homo sapiens (Human):9606,Protein>Receptor,P25942,"1CZZ, 1D00, 1FLL, 1LB6, 3QD6",NULL
+135,N-acetylgalactosamine,galactose,Unknown,Organic molecules or materials,NULL,NULL,NULL
+136,Anti-glycoprotein G1 monoclonal antibody 6B9/F5,NULL,Mus musculus (Mouse):10090,Protein>Monoclonal antibody,NULL,NULL,This mouse monoclonal antibody (clone 6B9/F5; isotype: IgG2b) was obtained by immunization of mice with the recombinant N-terminal domain (aa1 - aa353) of glycoprotein 1 of Andes virus.
+137,Anti-glycoprotein G2 monoclonal antibody 6C5/D12,NULL,Mus musculus (Mouse):10090,Protein>Monoclonal antibody,NULL,NULL,This mouse monoclonal antibody (clone 6C5/D12; isotype: IgG2a) was obtained by immunization of mice with the C-terminal domain (aa182 - aa491) of glycoprotein 2 of Andes virus.
+138,"C-X-C chemokine receptor type 1, CXC-R1, CXCR-1","High affinity interleukin-8 receptor A, IL-8R A
+IL-8 receptor type 1
+CDw128a
+CD_antigen=CD181",Homo sapiens (Human):9606,Protein>Receptor,P25024,"1ILP, 1ILQ, 2LNL",NULL
+139,"C-X-C chemokine receptor type 2, CXC-R2, CXCR-2","High affinity interleukin-8 receptor B, IL-8R B
+GRO/MGSA receptor
+IL-8 receptor type 2
+CDw128b
+CD_antigen=CD182",Homo sapiens (Human):9606,Protein>Receptor,P25025,NULL,NULL
+140,EG95 host-protective vaccine antigen,EG95 protein,Echinococcus granulosus:6210,Protein>Others,NULL,NULL,NULL
+141,Zinc metalloproteinase neuwiedase,EC=3.4.24.-,Bothrops neuwiedi pauloensis (Neuwied's lancehead) (Bothrops pauloensis):95649,Protein>Enzyme,Q9I9R4,NULL,NULL
+142,Scolex protein antigen from cysticercus cellulosae (SPACc),NULL,Taenia solium:6204,Protein>Others,NULL,NULL,NULL
+143,Cadherin-1,"Epithelial cadherin, E-cadherin
+Uvomorulin
+CAM 120/80
+CD_antigen=CD324",Homo sapiens (Human):9606,Protein>Others,P12830,"1O6S, 2O72, 2OMT, 2OMU, 2OMV, 2OMX, 2OMY, 2OMZ, 3FF7, 3FF8, 3L6X, 3L6Y",NULL
+144,Glycoprotein G,NULL,Rabies virus (strain Pasteur vaccins / PV) (RABV):103929,Protein>Others,P08667,NULL,NULL
+145,Fimbria adhesin protein,NULL,Klebsiella pneumoniae:573,Protein>Others,P21648,3U4K,NULL
+146,Connective tissue growth factor,"Hypertrophic chondrocyte-specific protein 24
+Insulin-like growth factor-binding protein 8, IGF-binding protein 8, IGFBP-8, IBP-8
+CCN family member 2",Homo sapiens (Human):9606,Protein>Others,P29279,NULL,NULL
+147,"Botulinum neurotoxin type A, BoNT/A","Bontoxilysin-A, BOTOX",Clostridium botulinum:1491,Protein>Others,P10845,"1XTF, 1XTG, 2ILP, 2IMA, 2IMB, 2IMC, 2ISE, 2ISG, 2ISH, 2NYY, 2NZ9, 2VU9, 2VUA, 2W2D, 3BOK, 3BON, 3BOO, 3BTA, 3BWI, 3C88, 3C89, 3C8A, 3C8B, 3DDA, 3DDB, 3DS9, 3FUO, 3V0A, 3V0B, 3V0C, 3ZUR, 3ZUS, 4EJ5, 4EL4, 4ELC, 4HEV",NULL
+148,5-hydroxytryptamine receptor 2C,"5-HTR2C, 5-HT-2C, 5-HT2C
+5-hydroxytryptamine receptor 1C, 5-HT-1C, 5-HT1C
+Serotonin receptor 2C",Homo sapiens (Human):9606,Protein>Receptor,P28335,NULL,NULL
+149,Cysteine-rich PDZ-binding protein,"Cysteine-rich interactor of PDZ three, Cysteine-rich interactor of PDZ3",Homo sapiens (Human):9606,Protein>Others,Q9P021,NULL,NULL
+150,Antigens exposed in ischemic tissue,NULL,Homo sapiens (Human):9606,Protein>Others,NULL,NULL,
+151,"Keratinocyte growth factor, KGF","Fibroblast growth factor 7, FGF-7
+Heparin-binding growth factor 7, HBGF-7",Homo sapiens (Human):9606,Protein>Others,P21781,NULL,NULL
+152,Botulinum neurotoxin A heavy chain,NULL,Clostridium botulinum:1491,Protein>Others,P10845 [449-1296],"1XTF, 1XTG, 2ILP, 2IMA, 2IMB, 2IMC, 2ISE, 2ISG, 2ISH, 2NYY, 2NZ9, 2VU9, 2VUA, 2W2D, 3BOK, 3BON, 3BOO, 3BTA, 3BWI, 3C88, 3C89, 3C8A, 3C8B, 3DDA, 3DDB, 3DS9, 3FUO, 3V0A, 3V0B, 3V0C, 3ZUR, 3ZUS, 4EJ5, 4EL4, 4ELC, 4HEV",NULL
+153,Methyl α-D-mannopyranoside,NULL,None,Organic molecules or materials,NULL,NULL,NULL
+154,Taiwan cobra venom,NULL,Naja atra (Chinese cobra):8656,Organic molecules or materials,NULL,NULL,NULL
+155,Serine protease pet autotransporter,NULL,Escherichia coli O44:H18 (strain 042 / EAEC):861906,Protein>Others,O68900,NULL,NULL
+156,Serine protease pic autotransporter,NULL,Escherichia coli:562,Protein>Others,"Q8CWC7, Q7BS42",NULL,NULL
+157,Macrophage migration inhibitory factor-like protein,NULL,Plasmodium falciparum:5833,Protein>Others,Q6Q3H7,NULL,NULL
+158,"Non-specific lipid-transfer protein, LTP","Phospholipid transfer protein, PLTP
+ns-LTP1",Triticum aestivum (Wheat):4565,Protein>Others,P24296,"1BWO, 1CZ2, 1GH1",NULL
+159,Fibrinogen beta chain,NULL,Homo sapiens (Human):9606,Protein>Others,P02675,"1FZA, 1FZB, 1FZC, 1FZE, 1FZF, 1FZG, 1LT9, 1LTJ, 1N86, 1N8E, 1RE3, 1RE4, 1RF0, 1RF1, 2A45, 2FFD, 2H43, 2HLO, 2HOD, 2HPC, 2OYH, 2OYI, 2Q9I, 2XNX, 2XNY, 2Z4E, 3BVH, 3E1I, 3GHG, 3H32, 3HUS",NULL
+160,Neurexin-1-beta,Neurexin I-beta,Homo sapiens (Human):9606,Protein>Others,P58400,3B3Q,NULL
+161,Profilin,"Pollen allergen Cuc m 2
+Allergen=Cuc m 2",Cucumis melo (Muskmelon):3656,Protein>Others,Q5FX67,NULL,NULL
+162,SAG2 protein,"Surface antigen
+Surface antigen P22",Toxoplasma gondii:5811,Protein>Others,Q27004,NULL,NULL
+163,Cytokine receptor common subunit gamma (CD132),NULL,Gallus gallus (Chicken):9031,Protein>Receptor,GI:111610637,NULL,NULL
+164,Interleukin 2,Interleukin-2,Gallus gallus (Chicken):9031,Protein>Others,O42288,NULL,NULL
+165,Activated oncosphere TSOL18,NULL,Taenia solium (Pork tapeworm):6204,Protein>Others,O96346,NULL,NULL
+166,Type I collagen,NULL,Homo sapiens (Human):9606,Protein>Others,"P02452, P08123","1Q7D, 2LLP, 3EJH, 3GXE",NULL
+167,IL-2 alpha receptor,Interleukin-2 alpha receptor,Gallus gallus (Chicken):9031,Protein>Receptor,Q90WJ4,NULL,NULL
+168,Dynamin-1-like protein,"Dynamin-like protein
+Dnm1p/Vps1p-like protein, DVLP
+Dynamin family member proline-rich carboxyl-terminal domain less, Dymple
+Dynamin-related protein 1
+Dynamin-like protein 4
+Dynamin-like protein IV, HdynIV",Homo sapiens (Human):9606,Protein>Others,O00429,4BEJ,NULL
+169,Tumor necrosis factor ligand superfamily member 10,"TNF-related apoptosis-inducing ligand, Protein TRAIL
+Apo-2 ligand, Apo-2L
+CD_antigen=CD253",Homo sapiens (Human):9606,Protein>Others,P50591,"1D0G, 1D2Q, 1D4V, 1DG6, 1DU3","Tumor necrosis factor ligand superfamily member 10 is a cytokine that binds to TNFRSF10A/TRAILR1, TNFRSF10B/TRAILR2, TNFRSF10C/TRAILR3, TNFRSF10D/TRAILR4 and possibly also to TNFRSF11B/OPG and then induces apoptosis. It functions as homotrimer."
+170,Phomopsin A,NULL,Unknown,Protein>Others,NULL,NULL,"Phomopsin A (C36H45ClN6O12), the main mycotoxin, is a linear hexapeptide containing 3-hydroxy-L-isoleucine, 3,4-didehydro-L-valine, N-methyl-3-(3-chloro-4,5-dihydroxyphenyl) serine, E-2, 3-didehydro-aspartic acid, E-2, 3-didehydroisoleucine, and 3,4-didehydro-L-proline. Phomopsin A induces mitotic abnormalities in the liver with associated histopathology."
+171,Apical membrane antigen 1,Merozoite surface antigen,Plasmodium chabaudi:5825,Protein>Others,P16445,NULL,NULL
+172,Protein Nef,"Negative factor, F-protein
+3'ORF",Human immunodeficiency virus type 1 group M subtype B (isolate BH10) (HIV-1):11678,Protein>Others,P03404,"1ZEC, 3TB8",NULL
+173,"Protective antigen, PA","PA-83, PA83
+Anthrax toxins translocating protein",Bacillus anthracis:1392,Protein>Others,P13423,"1ACC, 1T6B, 1TZN, 1TZO, 3ETB, 3INO, 3KWV, 3MHZ, 3Q8A, 3Q8B, 3Q8C, 3Q8E, 3Q8F, 3TEW, 3TEX, 3TEY, 3TEZ, 4EE2",NULL
+174,"Complement receptor type 2, Cr2","Complement C3d receptor
+Epstein-Barr virus receptor, EBV receptor                                                                                                                                                                                            
+CD_antigen=CD21",Homo sapiens (Human):9606,Protein>Receptor,P20023,"1GHQ, 1LY2, 1W2R, 1W2S, 2GSX, 3OED",NULL
+175,Cellular tumor antigen p53,"Antigen NY-CO-13
+Phosphoprotein p53
+Tumor suppressor p53",Homo sapiens (Human):9606,Protein>Others,P04637,"1A1U, 1AIE, 1C26, 1DT7, 1GZH, 1H26, 1HS5, 1JSP, 1KZY, 1MA3, 1OLG, 1OLH, 1PES, 1PET, 1SAE, 1SAF, 1SAK, 1SAL, 1TSR, 1TUP, 1UOL, 1XQH, 1YC5, 1YCQ, 1YCR, 1YCS, 2AC0, 2ADY, 2AHI, 2ATA, 2B3G, 2BIM, 2BIN, 2BIO, 2BIP, 2BIQ, 2F1X, 2FEJ, 2FOJ, 2FOO, 2GS0, 2H1L, 2H2D, 2H2F, 2H4F, 2H4H, 2H4J, 2H59, 2J0Z, 2J10, 2J11, 2J1W, 2J1X, 2J1Y, 2J1Z, 2J20, 2J21, 2K8F, 2L14, 2LY4, 2MEJ, 2MWO, 2MWP, 2MZD, 2OCJ, 2PCX, 2RUK, 2VUK, 2WGX, 2X0U, 2X0V, 2X0W, 2XWR, 2YBG, 2YDR, 2Z5S, 2Z5T, 3D05, 3D06, 3D07, 3D08, 3D09, 3D0A, 3DAB, 3DAC, 3IGK, 3IGL, 3KMD, 3KZ8, 3LW1, 3OQ5, 3PDH, 3Q01, 3Q05, 3Q06, 3SAK, 3TG5, 3TS8, 3ZME, 4AGL, 4AGM, 4AGN, 4AGO, 4AGP, 4AGQ, 4BUZ, 4BV2, 4HFZ, 4HJE, 4IBQ, 4IBS, 4IBT, 4IBU, 4IBV, 4IBW, 4IBY, 4IBZ, 4IJT, 4KVP, 4LO9, 4LOE, 4LOF, 4MZI, 4MZR, 4QO1","Acts as a tumor suppressor in many tumor types; induces growth arrest or apoptosis depending on the physiological circumstances and cell type. Involved in cell cycle regulation as a trans-activator that acts to negatively regulate cell division by controlling a set of genes required for this process. One of the activated genes is an inhibitor of cyclin-dependent kinases. Apoptosis induction seems to be mediated either by stimulation of BAX and FAS antigen expression, or by repression of Bcl-2 expression."
+176,Outer capsid protein VP2,NULL,African horse sickness virus 3 (AHSV-3):117204,Protein>Others,Q89508,NULL,NULL
+177,"Vascular endothelial growth factor A, VEGF-A","Vascular permeability factor, VPF",Homo sapiens (Human):9606,Protein>Others,P15692,"1BJ1, 1CZ8, 1FLT, 1KAT, 1KMX, 1MJV, 1MKG, 1MKK, 1QTY, 1TZH, 1TZI, 1VGH, 1VPF, 1VPP, 2FJG, 2FJH, 2QR0, 2VGH, 2VPF, 3BDY",NULL
+178,Cytochrome b-245,"Cytochrome b-245 light chain alternative name(s):
+p22 phagocyte B-cytochrome
+Neutrophil cytochrome b 22 kDa polypeptide
+p22-phox, p22phox
+Cytochrome b(558) alpha chain
+Cytochrome b558 subunit alpha
+Superoxide-generating NADPH oxidase light chain subunit
+
+Cytochrome b-245 heavy chain alternative name(s):
+p22 phagocyte B-cytochrome
+Neutrophil cytochrome b 91 kDa polypeptide
+Heme-binding membrane glycoprotein gp91phox
+CGD91-phox
+gp91-phox
+gp91-1
+Cytochrome b(558) subunit beta, Cytochrome b558 subunit beta
+Superoxide-generating NADPH oxidase heavy chain subunit
+NADPH oxidase 2",Homo sapiens (Human):9606,Protein>Others,"Cytochrome b-245 light chain: P13498 , Cytochrome b-245 heavy chain: P04839 ","Cytochrome b-245 light chain: 1WLP
+Cytochrome b-245 heavy chain: 3A1F ",NULL
+179,Zona pellucida sperm-binding protein 3,"Zona pellucida glycoprotein 3, Zp-3
+Zona pellucida protein C
+Sperm receptor
+ZP3A/ZP3B",Homo sapiens (Human):9606,Protein>Others,P21754,NULL,NULL
+180,Anti-gp120 monoclonal antibody 17b,"Mab 17b (1.7b, sCD4-17b, 1.7B)",Homo sapiens (Human):9606,Protein>Monoclonal antibody,"GI:3319097, GI:3319096","1G9M, 1G9N, 1GC1, 1RZ8, 1RZJ, 1RZK, 1YYL, 1YYM, 2I5Y, 2I60, 2NXY, 2NXZ, 2NY0, 2NY1, 2NY2, 2NY3, 2NY4, 2NY5, 2NY6","The monoclonal antibody 17b is generated with an Epstein-Barr virus immortalized B-cell clone isolated from an HIV-1-infected individual by the laboratory of James Robinson (Tulaine University, New Orleans)."
+181,Plasmodium,NULL,Plasmodium falciparum:5833,Cell,NULL,NULL,NULL
+182,Serine/threonine-protein kinase A-Raf,"Proto-oncogene A-Raf-1
+Proto-oncogene A-Raf
+Proto-oncogene Pks
+EC=2.7.11.1",Homo sapiens (Human):9606,Protein>Enzyme,P10398,1WXM,NULL
+183,Iron-loaded human transferrin,NULL,Homo sapiens (Human):9606,Protein>Others,NULL,NULL,NULL
+184,proMMP-2,Progelatinase A,Homo sapiens (Human):9606,Protein>Others,NULL,NULL,NULL
+185,Cytotoxic T-lymphocyte protein 4,"Cytotoxic T-lymphocyte-associated antigen 4, CTLA-4
+CD_antigen=CD152",Homo sapiens (Human):9606,Protein>Others,P16410,"1AH1, 1H6E, 1I85, 1I8L, 2X44, 3BX7, 3OSK",NULL
+186,"Beta-lactoglobulin, Beta-LG",Allergen=Bos d 5,Bos taurus (Bovine):9913,Protein>Others,P02754,"1B0O, 1B8E, 1BEB, 1BSO, 1BSQ, 1BSY, 1CJ5, 1DV9, 1GX8, 1GX9, 1GXA, 1QG5, 1UZ2, 1YUP, 2AKQ, 2BLG, 2GJ5, 2Q2M, 2Q2P, 2Q39, 2R56, 3BLG, 3KZA, 3NPO, 3NQ3, 3NQ9, 3PH5, 3PH6, 3UEU, 3UEV, 3UEW, 3UEX, 4DQ3, 4DQ4, 4GNY",NULL
+187,Tyrosine-protein kinase HCK,"Hemopoietic cell kinase
+p59-HCK/p60-HCK
+EC=2.7.10.2",Homo sapiens (Human):9606,Protein>Enzyme,P08631,"1AD5, 1BU1, 1QCF, 2C0I, 2C0O, 2C0T, 2HCK, 2HK5, 2OI3, 2OJ2, 3HCK, 3NHN, 3RBB, 3REA, 3REB, 3VRY, 3VRZ, 3VS0, 3VS1, 3VS2, 3VS3, 3VS4, 3VS5, 3VS6, 3VS7, 4HCK, 5HCK",NULL
+188,Potassium channel toxin alpha-KTx 2.1,"Noxiustoxin, NTx
+Toxin II.11",Centruroides noxius (Mexican scorpion):6878,Protein>Others,P08815,1SXM,NULL
+189,Glutamate decarboxylase 2,"Glutamate decarboxylase 65 kDa isoform
+65 kDa glutamic acid decarboxylase, GAD-65
+EC=4.1.1.15",Homo sapiens (Human):9606,Protein>Enzyme,Q05329,"1ES0, 2OKK",NULL
+190,HCV E1 protein,NULL,Hepatitis C virus:11103,Protein>Others,NULL,NULL,NULL
+191,Pulmonary surfactant-associated protein A1,"SP-A1, SP-A, PSP-A, PSAP
+Alveolar proteinosis protein
+35 kDa pulmonary surfactant-associated protein
+Collectin-4",Homo sapiens (Human):9606,Protein>Others,Q8IWL2,NULL,NULL
+192,Major pollen allergen Bet v 1-A,"Allergen Bet v I-A
+Allergen=Bet v 1-A",Betula pendula (European white birch) (Betula verrucosa):3505,Protein>Others,P15494,"1B6F, 1BTV, 1BV1, 1FSK, 1LLT, 1QMR, 4A80, 4A81, 4A83, 4A84, 4A85, 4A86, 4A87, 4A88, 4A8G",NULL
+193,Integrin alpha-IIb/beta-3,"Integrin alpha-IIb alternative name(s):
+Platelet membrane glycoprotein IIb
+GPalpha IIb, GPIIb
+CD_antigen=CD41
+
+Integrin beta-3 alternative name(s):
+Platelet membrane glycoprotein IIIa, GPIIIa
+CD_antigen=CD61",Homo sapiens (Human):9606,Protein>Others,"P08514, P05106","Integrin alpha-IIb: 1DPK, 1DPQ, 1KUP, 1KUZ, 1M8O, 1S4W, 1TYE, 2K1A, 2K9J, 2KNC, 2VC2, 2VDK, 2VDL, 2VDM, 2VDN, 2VDO, 2VDP, 2VDQ, 2VDR, 3FCS, 3FCU, 3NID, 3NIF, 3NIG, 3T3M, 3T3P
+Integrin beta-3: 1JV2, 1KUP, 1KUZ, 1L5G, 1M1X, 1M8O, 1MK7, 1MK9, 1S4X, 1TYE, 1U8C, 2K9J, 2KNC, 2KV9, 2L1C, 2L91, 2LJD, 2LJE, 2LJF, 2Q6W, 2RMZ, 2RN0, 2VC2, 2VDK, 2VDL, 2VDM, 2VDN, 2VDO, 2VDP, 2VDQ, 2VDR, 3FCS, 3FCU, 3IJE, 3NID, 3NIF, 3NIG, 3T3M, 3T3P, 4G1E, 4G1M",NULL
+194,Human platelet,NULL,Homo sapiens (Human):9606,Cell,NULL,NULL,NULL
+195,Chlamydia pneumoniae,NULL,Chlamydia pneumoniae (Chlamydophila pneumoniae):83558,Cell,NULL,NULL,NULL
+196,Tyrosine-protein phosphatase non-receptor type 6,"Protein-tyrosine phosphatase 1C, PTP-1C
+Hematopoietic cell protein-tyrosine phosphatase
+SH-PTP1
+Protein-tyrosine phosphatase SHP-1
+EC=3.1.3.48",Homo sapiens (Human):9606,Protein>Enzyme,P29350,"1FPR, 1GWZ, 1X6C, 2B3O, 2RMX, 2YU7, 3PS5, 4GRY, 4GRZ, 4GS0, 4HJP, 4HJQ",NULL
+197,"Envelope glycoprotein G, gG, gG-2",NULL,Human herpesvirus 2 (strain HG52) (HHV-2) (Human herpes simplex virus 2):10315,Protein>Others,P13290,NULL,NULL
+198,Meningococcal group A polysaccharide (MAPS),NULL,Neisseria meningitidis serogroup A:65699,Organic molecules or materials,NULL,NULL,NULL
+199,Myc proto-oncogene protein,"Proto-oncogene c-Myc
+Transcription factor p64
+Class E basic helix-loop-helix protein 39, bHLHe39",Homo sapiens (Human):9606,Protein>Others,P01106,"1A93, 1EE4, 1MV0, 1NKP, 2A93",NULL
+200,Platelet glycoprotein Ib alpha chain,"Glycoprotein Ibalpha, GP-Ib alpha, GPIb-alpha, GPIbA
+Antigen CD42b-alpha
+CD_antigen=CD42b",Homo sapiens (Human):9606,Protein>Others,P07359,"1GWB, 1M0Z, 1M10, 1OOK, 1P8V, 1P9A, 1QYY, 1SQ0, 1U0N, 2BP3, 3P72, 3PMH",NULL
+201,"HLA class II histocompatibility antigen, DM",NULL,Homo sapiens (Human):9606,Protein>Others,"P28067, P28068","MHC class II antigen DMA: 1HDM, 2BC4, 4FQX, 4GBX     
+MHC class II antigen DMB: 1HDM, 2BC4, 4FQX, 4GBX, 4I0P
+",NULL
+202,Homeotic protein knotted-1,NULL,Zea mays (Maize):4577,Protein>Others,P24345,NULL,NULL
+203,"Movement protein, MP",Protein 3A,Cucumber mosaic virus (strain Pepo) (CMV):117125,Protein>Others,Q89785,NULL,NULL
+204,AA1–20 of Taenia solium paramyosin (MSESHVKISRTIIRGTSPST),NULL,Taenia solium (Pork tapeworm):6204,Protein>Others,NULL,NULL,NULL
+205,"Crotoxin acid chain, CA",Crotapotin,Crotalus durissus terrificus (South American rattlesnake):8732,Protein>Others,P08878,3R0L,NULL
+206,"Myohemerythrin, MHr",NULL,Themiste hennahi:360549,Protein>Others,P02247,"1A7D, 1A7E, 2IGF, 2MHR",NULL
+207,Biotin,"Vitamin B7, Vitamin H
+Coenzyme R, Biopeiderm
+PDB component identifier: BTN
+",Unknown,Organic molecules or materials,"CID: 171548
+SMILES: O=C1N[C@@H]2[C@@H](SC[C@@H]2N1)CCCCC(=O)O","1AVD,1BDO,1BIB,1DF8,1F27,1HXD,1KQS,1LUQ,1MEP,1MK5,1N43,1N9M,1NDJ,1NQM,1STP,1SWD,1SWE,1SWG,1SWK,1SWN,1SWP,1SWR,1SWT,1WBI,1WPY,1XNY,1Y52,1Y55,2AVI,2B8G,2BDO,2C1Q,2C4I,2DTH,2DTO,2DXT,2EJ9,2EJF,2EJG,2F01,2FYK,2GH7,2IZF,2IZG,2IZH,2IZI,2IZJ,2JGS,2RTD,2RTE,2RTF,2RTG,2UYW,2UZ2,2Y3F,2ZGW,2ZSC,3EFR,3EFS,3EW2,3G8C,3IB9,3MG5,3O34,3RDM,3RDO","Biotin is a water-soluble B-complex vitamin discovered by Bateman in 1916. The Empirical formula of Biotin is C10H16O3N2S, with an unusual structure composed of a ureido (tetrahydroimidizalone) ring fused with a tetrahydrothiophene ring. Biotin is necessary for cell growth, the production of fatty acids, and the metabolism of fats and amino acids. It plays a role in the citric acid cycle, which is the process by which biochemical energy is generated during aerobic respiration. Biotin not only assists in various metabolic reactions but also helps to transfer carbon dioxide. Biotin may also be helpful in maintaining a steady blood sugar level."
+208,Surface protein gp120 of Envelope glycoprotein gp160,NULL,Human immunodeficiency virus type 1 group M subtype B (isolate MN) (HIV-1):11696,Protein>Others,P05877 [32-513],"1ACY, 1AI1, 1F58, 1NAK, 1NIZ, 1NJ0, 2B0S, 2QSC, 3GO1, 3MLW, 3MLX, 3UJI",NULL
+209,Proenkephalin-A,NULL,Homo sapiens (Human):9606,Protein>Others,P01210,"1PLW, 1PLX",NULL
+210,Beta-endorphin,NULL,Homo sapiens (Human):9606,Protein>Others,P01189 [237-267],NULL,NULL
+211,F-actin-capping protein subunit alpha-1,CapZ alpha-1,Bos taurus (Bovine):9913,Protein>Others,A4FUA8,NULL,NULL
+212,"Keratin, type I cytoskeletal 19","Cytokeratin-19, CK-19
+Keratin-19, K19",Homo sapiens (Human):9606,Protein>Others,P08727,NULL,NULL
+213,DNA-binding protein SATB1,Special AT-rich sequence-binding protein 1,Homo sapiens (Human):9606,Protein>Others,Q01826,"1YSE, 2L1P, 2O49, 2O4A, 3NZL, 3TUO",NULL
+214,Urokinase-type plasminogen activator (uPA),U-plasminogen activator,Homo sapiens (Human):9606,Protein>Others,P00749,"1C5W, 1C5X, 1C5Y, 1C5Z, 1EJN, 1F5K, 1F5L, 1F92, 1FV9, 1GI7, 1GI8, 1GI9, 1GJ7, 1GJ8, 1GJ9, 1GJA, 1GJB, 1GJC, 1GJD, 1KDU, 1LMW, 1O3P, 1O5A, 1O5B, 1O5C, 1OWD, 1OWE, 1OWH, 1OWI, 1OWJ, 1OWK, 1SC8, 1SQA, 1SQO, 1SQT, 1U6Q, 1URK, 1VJ9, 1VJA, 1W0Z, 1W10, 1W11, 1W12, 1W13, 1W14, 2FD6, 2I9A, 2I9B, 2NWN, 2O8T, 2O8U, 2O8W, 2R2W, 2VIN, 2VIO, 2VIP, 2VIQ, 2VIV, 2VIW, 2VNT, 3BT1, 3BT2, 3IG6, 3KGP, 3KHV, 3KID, 3M61, 3MHW, 3MWI, 3OX7, 3OY5, 3OY6, 3PB1, 3QN7, 3U73, 4DVA, 4DW2, 4FU7, 4FU8, 4FU9, 4FUB, 4FUC, 4FUD, 4FUE, 4FUF, 4FUG, 4FUH, 4FUI, 4FUJ, 4GLY, 4H42, 4JK5, 4JK6, 4JNI, 4JNL, 4K24, 4MNV, 4MNW, 4MNX, 4MNY, 4OS1, 4OS2, 4OS4, 4OS5, 4OS6, 4OS7, 4X1N, 4X1Q, 4X1R",NULL
+215,Streptavidin,NULL,Streptomyces avidinii:1895,Protein>Others,P22629,"1DF8,1HQQ,1HXL,1HXZ,1HY2,1I9H,1KFF,1KL3,1KL4,1KL5,1LCV,1LCW,1LCZ,1LUQ,1MEP,1MK5,1MM9,1MOY,1N43,1N4J,1N7Y,1N9M,1N9Y,1NBX,1NC9,1NDJ,1NQM,1PTS,1RST,1RSU,1RXH,1RXJ,1RXK,1SLD,1SLE,1SLF,1SLG,1SRE,1SRF,1SRG,1SRH,1SRI,1SRJ,1STP,1STR,1STS,1SWA,1SWB,1SWC,1SWD,1SWE,1SWF,1SWG,1SWH,1SWJ,1SWK,1SWL,1SWN,1SWO,1SWP,1SWQ,1SWR,1SWS,1SWT,1SWU,1VWA,1VWB,1VWC,1VWD,1VWE,1VWF,1VWG,1VWH,1VWI,1VWJ,1VWK,1VWL,1VWM,1VWN,1VWO,1VWP,1VWQ,1VWR,2BC3,2F01,2G5L,2GH7,2IZA,2IZB,2IZC,2IZD,2IZE,2IZF,2IZG,2IZH,2IZI,2IZJ,2IZK,2IZL,2QCB,2RTA,2RTB,2RTC,2RTD,2RTE,2RTF,2RTG,2RTH,2RTI,2RTJ,2RTK,2RTL,2RTM,2RTN,2RTO,2RTP,2RTQ,2RTR,2WPU,2Y3E,2Y3F,3MG5,3PK2","Streptavidin is a tetrameric protein purified from the bacterium Streptomyces avidinii. It has an extraordinarily high affinity for biotin; the dissociation constant of the biotin-streptavidin complex is about 10<sup>-14</sup>M, making it one of the strongest non-covalent interactions known in nature."
+216,Guanine nucleotide-binding protein G(o) subunit alpha,GTP-binding protein G39,Bos taurus (Bovine):9913,Protein>Others,P08239,NULL,NULL
+217,Erythropoietin,INN=Epoetin,Homo sapiens (Human):9606,Protein>Others,P01588,"1BUY, 1CN4, 1EER",NULL
+218,MHC class II molecules,NULL,Homo sapiens (Human):9606,Protein>Others,NULL,NULL,NULL
+219,Hepatitis B surface antigen,NULL,Hepatitis B virus:10407,Protein>Others,NULL,NULL,NULL
+220,Laminin-1,"Laminin subunit alpha-1 alternative name(s):
+Laminin A chain
+Laminin-1 subunit alpha
+Laminin-3 subunit alpha
+S-laminin subunit alpha
+Short name=S-LAM alpha
+
+Laminin subunit beta-1 alternative name(s):
+Laminin B1 chain
+Laminin-1 subunit beta
+Laminin-2 subunit beta
+Laminin-6 subunit beta
+Laminin-8 subunit beta
+Laminin-10 subunit beta
+Laminin-12 subunit beta",Homo sapiens (Human):9606,Protein>Others,"P25391, P07942",NULL,NULL
+221,Integrin alpha-L beta-2,"Integrin alpha-L alternative name(s):
+Leukocyte adhesion glycoprotein LFA-1 alpha chain, LFA-1A
+Leukocyte function-associated molecule 1 alpha chain
+CD11 antigen-like family member A
+CD_antigen=CD11a
+
+Integrin beta-2 alternative name(s):
+Cell surface adhesion glycoproteins LFA-1/CR3/p150,95 subunit beta
+Complement receptor C3 subunit beta
+CD_antigen=CD18",Homo sapiens (Human):9606,Protein>Receptor,"Integrin alpha-L: P20701, Integrin beta-2: P05107","Integrin alpha-L: 1CQP, 1DGQ, 1LFA, 1MJN, 1MQ8, 1MQ9, 1MQA, 1RD4, 1T0P, 1XDD, 1XDG, 1XUO, 1ZON, 1ZOO, 1ZOP, 2ICA, 2K8O, 2O7N, 3BN3, 3BQM, 3BQN, 3E2M, 3EOA, 3EOB, 3F74, 3F78, 3HI6, 3M6F, 3TCX
+Integrin beta-2: 1L3Y, 1YUK, 2JF1, 2P26, 2P28, 2V7D, 3K6S, 3K71, 3K72
+",NULL
+222,T-lymphocyte activation antigen CD80,"Activation B7-1 antigen
+CTLA-4 counter-receptor B7.1
+Short name=B7
+BB1
+CD_antigen=CD80",Homo sapiens (Human):9606,Protein>Others,P33681,"1DR9, 1I8L",NULL
+223,Major blood-stage surface antigen Pv200,"Merozoite surface protein 1
+Pv200 protein",Plasmodium vivax:5855,Protein>Others,Q26194,NULL,NULL
+224,"Surface protein gp120, SU","Glycoprotein 120, gp120",Human immunodeficiency virus type 1 group M subtype B (isolate LW123) (HIV-1):82834,Protein>Others,Q70626 [33-511],"2X7R, 3AHA, 3CP1, 3CYO, 3GWO, 3H00, 3H01",NULL
+225,Capsular glucuronoxylomannan (GXM),NULL,Cryptococcus neoformans:5207,Organic molecules or materials,NULL,NULL,NULL
+226,Dystrophin,NULL,Homo sapiens (Human):9606,Protein>Others,P11532,"1DXX, 1EG3, 1EG4, 3UUN",NULL
+227,"Deoxyribonucleic acid, DNA",NULL,Unknown,Nucleic acids,NULL,NULL,NULL
+228,Acetylcholine receptor subunit alpha,NULL,Torpedo californica (Pacific electric ray):7787,Protein>Receptor,P02710,"1ABT, 1DXZ, 1IDG, 1IDH, 1LXG, 1LXH, 1TOR, 1TOS, 3MRA",NULL
+229,Glutamate carboxypeptidase 2,"Glutamate carboxypeptidase II, GCPII
+Membrane glutamate carboxypeptidase, mGCP
+N-acetylated-alpha-linked acidic dipeptidase I, NAALADase I
+Pteroylpoly-gamma-glutamate carboxypeptidase
+Folylpoly-gamma-glutamate carboxypeptidase, FGCP
+Folate hydrolase 1
+Prostate-specific membrane antigen, PSMA, PSM
+Cell growth-inhibiting gene 27 protein
+EC=3.4.17.21",Homo sapiens (Human):9606,Protein>Enzyme,Q04609,"1Z8L, 2C6C, 2C6G, 2C6P, 2CIJ, 2JBJ, 2JBK, 2OOT, 2OR4, 2PVV, 2PVW, 2XEF, 2XEG, 2XEI, 2XEJ, 3BHX, 3BI0, 3BI1, 3BXM, 3D7D, 3D7F, 3D7G, 3D7H, 3IWW, 3RBU, 3SJE, 3SJF, 3SJG, 3SJX",NULL
+230,Glycoprotein G2,NULL,Hantaan virus (strain 76-118) (Korean hemorrhagic fever virus):11602,Protein>Others,P08668 [649-1126],NULL,NULL
+231,Phosphocarrier protein HPr,"Histidine-containing protein
+EC=2.7.11.-",Escherichia coli (strain K12):83333,Protein>Others,P0AA04,"1CM2, 1CM3, 1GGR, 1HDN, 1J6T, 1OPD, 1PFH, 1POH, 1VRC, 2JEL, 2LRK, 2LRL, 2XDF, 3CCD, 3EZA, 3EZB, 3EZE",General (non sugar-specific) component of the phosphoenolpyruvate-dependent sugar phosphotransferase system (sugar PTS). This major carbohydrate active-transport system catalyzes the phosphorylation of incoming sugar substrates concomitantly with their translocation across the cell membrane. The phosphoryl group from phosphoenolpyruvate (PEP) is transferred to the phosphoryl carrier protein HPr by enzyme I. Phospho-HPr then transfers it to the permease (enzymes II/III).
+232,PreS1 of Large envelope protein,"Large envelope protein alternative name(s):
+Large surface protein
+L glycoprotein
+Major surface antigen
+Large S protein
+L-HBsAg, LHB",Hepatitis B virus:10407,Protein>Others,P03138 [2-108],,NULL
+233,C5a anaphylatoxin,NULL,Homo sapiens (Human):9606,Protein>Others,P01031 [678-751],"1CFA, 1KJS, 1XWE, 3CU7, 3HQA, 3HQB, 3KLS, 3KM9, 3PRX, 3PVM, 4A5W, 4E0S",NULL
+234,Envelope glycoprotein gp150,Env polyprotein,Feline immunodeficiency virus (isolate Petaluma) (FIV):11674,Protein>Others,P16090,NULL,NULL
+235,"Surface protein gp120, SU","Glycoprotein 120, gp120",Human immunodeficiency virus type 1 group M subtype B (isolate BH10) (HIV-1):11678,Protein>Others,P03375 [33-511],"2ARI, 3VGY, 3VH7, 3VU5, 3VU6",NULL
+236,"Transmembrane protein gp41, TM","Glycoprotein 41, gp41",Human immunodeficiency virus type 1 group M subtype B (isolate BH10) (HIV-1):11678,Protein>Others,P03375 [512-856],"2ARI, 3VGY, 3VH7, 3VU5, 3VU6",NULL
+237,"Glucuronoxylomannan, GXM",NULL,Cryptococcus neoformans (Filobasidiella neoformans):5207,Organic molecules or materials,NULL,NULL,NULL
+238,Estrogen,Estradiol,Homo sapiens (Human):9606,Organic molecules or materials,NULL,NULL,NULL
+239,Heparin-binding growth factor 2 (HBGF-2),"Basic fibroblast growth factor, BFGF",Homo sapiens (Human):9606,Protein>Others,P09038,"1BAS, 1BFB, 1BFC, 1BFF, 1BFG, 1BLA, 1BLD, 1CVS, 1EV2, 1FGA, 1FQ9, 1II4, 1IIL, 2BFH, 2FGF, 2M49, 4FGF, 4OEE, 4OEF, 4OEG",NULL
+240,Cell division protein ftsA,NULL,Escherichia coli (strain K12):83333,Protein>Others,P0ABH0,NULL,NULL
+241,"Iron-sulfur cluster assembly enzyme ISCU, mitochondrial","NifU-like N-terminal domain-containing protein
+NifU-like protein",Homo sapiens (Human):9606,Protein>Enzyme,Q9H1K1,NULL,NULL
+242,Heat shock cognate 71 kDa protein,Heat shock 70 kDa protein 8,Bos taurus (Bovine):9913,Protein>Others,P19120,"1ATR, 1ATS, 1BA0, 1BA1, 1BUP, 1HPM, 1HX1, 1KAX, 1KAY, 1KAZ, 1NGA, 1NGB, 1NGC, 1NGD, 1NGE, 1NGF, 1NGG, 1NGH, 1NGI, 1NGJ, 1QQM, 1QQN, 1QQO, 1YUW, 2BUP, 2QW9, 2QWL, 2QWM, 2QWN, 2QWO, 2QWP, 2QWQ, 2QWR, 3C7N, 3HSC, 4FL9",NULL
+243,Eotaxin,"C-C motif chemokine 11
+Small-inducible cytokine A11
+Eosinophil chemotactic protein",Homo sapiens (Human):9606,Protein>Others,P51671,"1EOT, 2EOT",NULL
+244,C-C chemokine receptor type 3,"C-C CKR-3, CC-CKR-3, CCR-3, CCR3, CKR3Eosinophil eotaxin receptor
+CD_antigen=CD193",Homo sapiens (Human):9606,Protein>Receptor,P51677,NULL,NULL
+245,JL1 antigen,NULL,Homo sapiens (Human):9606,Protein>Others,NULL,NULL,NULL
+246,"Interferon beta, IFN-beta",Fibroblast interferon,Homo sapiens (Human):9606,Protein>Others,P01574,1AU1,NULL
+247,P-selectin glycoprotein ligand 1,"PSGL-1
+Selectin P ligand
+CD_antigen=CD162",Homo sapiens (Human):9606,Protein>Others,Q14242,1G1S,NULL
+248,L2/HNK-1 carbohydrate,NULL,Unknown,Organic molecules or materials,NULL,NULL,NULL
+249,"Cholesteryl esters, CE",NULL,Unknown,Organic molecules or materials,NULL,NULL,NULL
+250,"Syndecan-1, SYND1",CD_antigen=CD138,Homo sapiens (Human):9606,Protein>Others,P18827,"4GVC, 4GVD",NULL
+251,Collagen alpha-1(II) chain,Alpha-1 type II collagen,Gallus gallus (Chicken):9031,Protein>Others,P02460,NULL,NULL
+252,Glutamate decarboxylase 67,NULL,Gallus gallus (Chicken):9031,Protein>Others,Q9YI58,NULL,NULL
+253,"Vascular endothelial growth factor receptor 2, VEGFR-2","Kinase insert domain receptor
+Protein-tyrosine kinase receptor flk-1
+Fetal liver kinase 1, FLK-1
+CD_antigen=CD309",Homo sapiens (Human):9606,Protein>Receptor,P35968,"1VR2, 1Y6A, 1Y6B, 1YWN, 2OH4, 2P2H, 2P2I, 2QU5, 2QU6, 2RL5, 2X1W, 2X1X, 2XIR, 3B8Q, 3B8R, 3BE2, 3C7Q, 3CJF, 3CJG, 3CP9, 3CPB, 3CPC, 3DTW, 3EFL, 3EWH, 3KVQ, 3S35, 3S36, 3S37, 3U6J, 3VHE, 3VHK, 3VID, 3VNT, 3VO3, 4AG8, 4AGC, 4AGD, 4ASD, 4ASE",NULL
+254,Equine herpesvirus type 1,NULL,Equid herpesvirus 1 (Equine herpesvirus 1):10326,Virus,NULL,NULL,NULL
+255,Receptor-type tyrosine-protein phosphatase C,"Leukocyte common antigen, L-CA
+Lymphocyte antigen 5, Ly-5
+T200
+CD_antigen=CD45",Mus musculus (Mouse):10090,Protein>Others,P06800,NULL,NULL
+256,D-glutamate,NULL,Unknown,Organic molecules or materials,NULL,NULL,NULL
+257,"ATP, D-glutamate",NULL,Unknown,Organic molecules or materials,NULL,NULL,NULL
+258,Envelope protein,E protein,West Nile virus (WNV):11082,Protein>Others,Q91KZ4,1ZTX,Envelope protein E binding to host cell surface receptor is followed by virus internalization through clathrin-mediated endocytosis. Envelope protein E is subsequently involved in membrane fusion between virion and host late endosomes.
+259,Ferritin heavy chain,"Ferritin H subunit
+Cell proliferation-inducing gene 15 protein",Homo sapiens (Human):9606,Protein>Others,P02794,"1FHA, 2CEI, 2CHI, 2CIH, 2CLU, 2CN6, 2CN7, 2FHA, 2IU2, 2Z6M, 3AJO, 3AJP, 3AJQ, 3ERZ, 3ES3, 4DYX, 4DYY, 4DYZ, 4DZ0",NULL
+260,Pertussis toxin subunit 1 (PTX S1),"Islet-activating protein S1 (IAP S1)
+NAD-dependent ADP-ribosyltransferase
+",Bordetella pertussis:520,Protein>Others,P04977,"1BCP, 1PRT, 1PTO",NULL
+261,Capsid protein 1,NULL,Porcine parvovirus (PPV):10796,Protein>Others,GI:194277768,NULL,NULL
+262,"N-alpha-acetyltransferase 10, NatA catalytic subunit","N-terminal acetyltransferase complex ARD1 subunit homolog A
+EC=2.3.1.-
+EC=2.3.1.88",Homo sapiens (Human):9606,Protein>Enzyme,P41227,NULL,NULL
+263,Transforming protein RhoA,"Rho cDNA clone 12, h12",Homo sapiens (Human):9606,Protein>Others,P61586,"1A2B, 1CC0, 1CXZ, 1DPF, 1FTN, 1KMQ, 1LB1, 1OW3, 1S1C, 1TX4, 1X86, 1XCG, 2RGN, 3KZ1, 3LW8, 3LWN, 3LXR, 3MSX, 3T06",NULL
+264,Interleukin-2 (IL-2),NULL,Anas platyrhynchos (Domestic duck) (Anas boschas):8839,Protein>Others,Q8JFF4 [22-140],NULL,NULL
+265,Envelope glycoprotein gp160,Env polyprotein,Human immunodeficiency virus type 1 group M subtype B (isolate HXB2) (HIV-1):11706,Protein>Others,P04578,"1AIK, 1DF4, 1DF5, 1DLB, 1G9M, 1GC1, 1GZL, 1K33, 1K34, 1RZJ, 2CMR, 2NY7, 2PV6, 2XRA, 3DNL, 3DNN, 3DNO, 3IDX, 3IDY, 3TYG, 3VIE, 4JPJ, 4JPK",NULL
+266,Lipopolysaccharide-binding protein (LBP),NULL,Mus musculus (Mouse):10090,Protein>Others,Q61805,NULL,NULL
+267,Larval proteins of Rhipicephalus microplus,NULL,Rhipicephalus microplus:6491,Protein>Others,NULL,NULL,NULL
+268,Subolesin,NULL,Ixodes scapularis (Black-legged tick) (Deer tick):6945,Protein>Others,GI:55846013,NULL,NULL
+269,Subolesin-like protein,NULL,Aedes albopictus (Asian tiger mosquito):7160,Protein>Others,GI:194339231,NULL,NULL
+270,Histone H3-like centromeric protein A,"Centromere autoantigen A
+Centromere protein A, CENP-A",Homo sapiens (Human):9606,Protein>Others,P49450,"3AN2, 3NQJ, 3NQU, 3R45",NULL
+271,Interleukin-15,NULL,Anser cygnoides (Chinese goose):8845,Protein>Others,Q6TMH0,NULL,NULL
+272,Enterotoxin type B (SEB),NULL,Staphylococcus aureus:1280,Protein>Others,P01552,"1D5M, 1D5X, 1D5Z, 1D6E, 1GOZ, 1SBB, 1SE3, 1SE4, 1SEB, 2SEB, 3GP7, 3R8B, 3SEB",NULL
+273,Protein S100-A4,"Calvasculin
+Metastasin
+Placental calcium-binding protein
+Protein Mts1
+S100 calcium-binding protein A4",Homo sapiens (Human):9606,Protein>Others,P26447,"1M31, 2LNK, 2Q91, 3C1V, 3CGA, 3KO0, 3M0W, 3ZWH, 4ETO, 4HSZ",NULL
+274,Heparin,NULL,Unknown,Organic molecules or materials,NULL,NULL,NULL
+275,Urease subunit beta,"Urea amidohydrolase subunit beta
+EC=3.5.1.5",Helicobacter pylori (Campylobacter pylori):210,Protein>Enzyme,P69996,"1E9Y, 1E9Z",NULL
+276,Matrix protein 2,Proton channel protein M2,Influenza A virus (strain A/Puerto Rico/8/1934 H1N1):211044,Protein>Others,P06821,NULL,NULL
+277,P-glycoprotein,Multidrug resistance protein,Homo sapiens (Human):9606,Protein>Others,NULL,NULL,NULL
+278,Polyprotein,NULL,Foot-and-mouth disease virus - type Asia 1:110195,Protein>Others,E9KMQ6,NULL,NULL
+279,"Methylmalonic aciduria and homocystinuria type D protein, mitochondrial",NULL,Homo sapiens (Human):9606,Protein>Others,Q9H3L0,NULL,NULL
+280,HIV-1 gp41 membrane proximal exterior region (MPER),NULL,Human immunodeficiency virus type 1:11676,Protein>Others,NULL,NULL,NULL
+281,"Dengue virus 2, DENV2",NULL,Dengue virus 2:11060,Virus,NULL,NULL,NULL
+282,Capsid protein C,Core protein,West Nile virus (WNV):11082,Protein>Others,P06935 [2-105],"2FP7, 2GGV, 2IJO, 2P5P, 2YOL, 3E90, 3I50",NULL
+283,"Transforming growth factor beta-1, TGF-beta-1","Latency-associated peptide, LAP",Homo sapiens (Human):9606,Protein>Others,P01137,"1KLA, 1KLC, 1KLD, 3KFD",NULL
+284,Gastric cancer antigen,NULL,Unknown,Miscellaneous,NULL,NULL,NULL
+285,Tail domain of fiber protein,,Human adenovirus C serotype 2 (HAdV-2) (Human adenovirus 2):10515,Protein>Others,P03275 [1-44],"1QHV, 1QIU, 1V1H, 1V1I, 2BLD, 2C9F, 4AR2",NULL
+286,Penton protein,"Penton base protein
+Virion component III
+pIII",Human adenovirus C serotype 2 (HAdV-2) (Human adenovirus 2):10515,Protein>Others,P03276,"1X9P, 1X9T, 2C6S, 2C9F, 2C9G, 4V4U",NULL
+287,Fiber protein,pIV,Human adenovirus C serotype 2 (HAdV-2) (Human adenovirus 2):10515,Protein>Others,P03275,"1QHV, 1QIU, 1V1H, 1V1I, 1X9T, 2C9F, 4AR2, 4V4U",NULL
+288,Envelope protein,NULL,Dengue virus 1:11053,Protein>Others,NULL,NULL,NULL
+289,"West Nile virus, WNV",NULL,West Nile virus (WNV):11082,Virus,NULL,NULL,NULL
+290,Apoptosis regulator Bcl-2,NULL,Homo sapiens (Human):9606,Protein>Others,P10415,"1G5M, 1GJH, 1YSW, 2O21, 2O22, 2O2F, 2W3L, 2XA0, 4AQ3",NULL
+291,Transcriptional repressor NF-X1,"Nuclear transcription factor, X box-binding protein 1",Homo sapiens (Human):9606,Protein>Others,Q12986,NULL,NULL
+292,"Human immunodeficiency virus type 1, HIV-1",NULL,Human immunodeficiency virus type 1:11676,Virus,NULL,NULL,NULL
+293,Extracellular domain of HER-2,"HER-2 alternative name(s):
+Receptor tyrosine-protein kinase erbB-2
+Epidermal growth factor receptor-related protein
+Proto-oncogene Neu
+Proto-oncogene c-ErbB-2
+p185erbB2
+CD_antigen=CD340
+EC=2.7.10.1",Rattus norvegicus (Rat):10116,Protein>Enzyme,P06494 [23-654],"1IIJ, 1N8Y",NULL
+294,Receptor tyrosine-protein kinase erbB-2,"Epidermal growth factor receptor-related protein
+Proto-oncogene Neu
+Proto-oncogene c-ErbB-2
+p185erbB2
+CD_antigen=CD340
+EC=2.7.10.1",Rattus norvegicus (Rat):10116,Protein>Enzyme,P06494,"1IIJ, 1N8Y",NULL
+295,Microtubule-associated proteins (MAPs),NULL,Bos taurus (Bovine):9913,Protein>Others,NULL,NULL,NULL
+296,T-cell differentiation antigen CD6,"T12
+TP120
+CD_antigen=CD6",Homo sapiens (Human):9606,Protein>Others,P30203,NULL,NULL
+297,Peptidase 1,"Allergen Der p I
+Major mite fecal allergen Der p 1
+Allergen=Der p 1
+EC=3.4.22.65",Dermatophagoides pteronyssinus (European house dust mite):6956,Protein>Enzyme,P08176,"1XKG, 2AS8, 3RVW, 3RVX",NULL
+298,Mite group 2 allergen Der p 2,"Allergen Der p II
+DPX
+Allergen=Der p 2",Dermatophagoides pteronyssinus (European house dust mite):6956,Protein>Others,P49278,"1A9V, 1KTJ",NULL
+299,"Serotransferrin, Transferrin","Beta-1 metal-binding globulin
+Siderophilin",Homo sapiens (Human):9606,Protein>Others,P02787,"1A8E, 1A8F, 1B3E, 1BP5, 1BTJ, 1D3K, 1D4N, 1DTG, 1FQE, 1FQF, 1JQF, 1N7W, 1N7X, 1N84, 1OQG, 1OQH, 1RYO, 1SUV, 2HAU, 2HAV, 2O7U, 2O84, 3FGS, 3QYT, 3S9L, 3S9M, 3S9N, 3SKP, 3V83, 3V89, 3V8X, 3VE1, 4H0W",NULL
+300,Escherichia coli K1 bacteria,NULL,Escherichia coli:562,Cell,NULL,NULL,NULL
+301,Major allergen Pru av 1,"Allergen Pru a 1
+Allergen=Pru av 1",Prunus avium (Cherry):42229,Protein>Others,O24248,"1E09, 1H2O",NULL
+302,Stress-induced protein SAM22,"Starvation-associated message 22
+Allergen=Gly m 4",Glycine max (Soybean) (Glycine hispida):3847,Protein>Others,P26987,2K7H,NULL
+303,Ara h 8 allergen,NULL,Arachis hypogaea (Peanut):3818,Protein>Others,Q6VT83,NULL,NULL
+304,"fMet-Leu-Phe receptor, fMLP receptor","N-formyl peptide receptor, FPR
+N-formylpeptide chemoattractant receptor",Homo sapiens (Human):9606,Protein>Receptor,P21462,NULL,NULL
+305,"Surface protein gp120, SU","Glycoprotein 120, gp120",Human immunodeficiency virus type 1 group M subtype B (isolate ARV2/SF2) (HIV-1):11685,Protein>Others,P03378 [32-509],NULL,NULL
+306,Rhodopsin,NULL,Bos taurus (Bovine):9913,Protein>Others,P02699,"1EDS, 1EDV, 1EDW, 1EDX, 1F88, 1FDF, 1GZM, 1HZX, 1JFP, 1L9H, 1LN6, 1NZS, 1U19, 1VQX, 2G87, 2HPY, 2I35, 2I36, 2I37, 2J4Y, 2PED, 2X72, 3C9L, 3C9M, 3CAP, 3DQB, 3OAX, 3PQR, 3PXO, 4A4M, 4BEY, 4BEZ",NULL
+307,"Major outer membrane porin, MOMP",NULL,Chlamydia pneumoniae (Chlamydophila pneumoniae):83558,Protein>Others,P27455,NULL,NULL
+308,"Poly-α 2-8 sialic acid, PSA",NULL,Neisseria meningitidis serogroup B:491,Organic molecules or materials,NULL,NULL,NULL
+309,Tumor necrosis factor,"Cachectin
+TNF-alpha
+Tumor necrosis factor ligand superfamily member 2, TNF-α",Homo sapiens (Human):9606,Protein>Others,P01375,"1A8M, 1TNF, 2AZ5, 2E7A, 2TUN, 2ZJC, 2ZPX, 3ALQ, 3IT8, 3L9J, 4G3Y, 4TSV, 5TSW",NULL
+310,Acetylcholine receptor,NULL,Electrophorus electricus (Electric eel):8005,Protein>Receptor,NULL,NULL,NULL
+311,Hepatitis C core protein,NULL,Hepatitis C virus:11103,Protein>Others,NULL,NULL,NULL
+312,V3 loop of HIV gp120,NULL,Human immunodeficiency virus type 1:11676,Protein>Others,NULL,NULL,NULL
+313,"Capsid protein, CP",Coat protein,Cucumber mosaic virus (strain FNY) (CMV):12307,Protein>Others,P69466,1F15,NULL
+314,J strain of peanut stunt virus,NULL,Peanut stunt virus (strain J) (PSV):12314,Virus,NULL,NULL,NULL
+315,V strain of tomato aspermy virus,NULL,Tomato aspermy virus (TAV):12315,Virus,NULL,NULL,NULL
+316,C strain of tomato aspermy virus,NULL,Tomato aspermy virus (TAV):12315,Virus,NULL,NULL,NULL
+317,"Actin, alpha skeletal muscle",Alpha-actin-1,Gallus gallus (Chicken):9031,Protein>Others,P68139,1MDU,NULL
+318,Lymphotoxin,NULL,Homo sapiens (Human):9606,Protein>Others,NULL,NULL,NULL
+319,"β-1,2-linked mannoside",NULL,Candida albicans (Yeast):5476,Organic molecules or materials,NULL,NULL,NULL
+320,"Insulin-like growth factor I, IGF-I","Mechano growth factor, MGF
+Somatomedin-C",Homo sapiens (Human):9606,Protein>Others,P05019,"1B9G, 1BQT, 1GF1, 1GZR, 1GZY, 1GZZ, 1H02, 1H59, 1IMX, 1PMX, 1TGR, 1WQJ, 2DSP, 2DSQ, 2DSR, 2GF1, 3GF1, 3LRI",NULL
+321,Sodium/potassium-transporting ATPase subunit alpha-1,"Na(+)/K(+) ATPase alpha-1 subunit
+Sodium pump subunit alpha-1
+EC=3.6.3.9",Ovis aries (Sheep):9940,Protein>Enzyme,P04074,NULL,NULL
+322,Myoglobin,NULL,Physeter macrocephalus (Sperm whale) (Physeter catodon):9755,Protein>Others,P02185,"101M, 102M, 103M, 104M, 105M, 106M, 107M, 108M, 109M, 110M, 111M, 112M, 1A6G, 1A6K, 1A6M, 1A6N, 1ABS, 1AJG, 1AJH, 1BVC, 1BVD, 1BZ6, 1BZP, 1BZR, 1CH1, 1CH2, 1CH3, 1CH5, 1CH7, 1CH9, 1CIK, 1CIO, 1CO8, 1CO9, 1CP0, 1CP5, 1CPW, 1CQ2, 1DO1, 1DO3, 1DO4, 1DO7, 1DTI, 1DTM, 1DUK, 1DUO, 1DXC, 1DXD, 1EBC, 1F63, 1F65, 1F6H, 1FCS, 1H1X, 1HJT, 1IOP, 1IRC, 1J3F, 1J52, 1JDO, 1JP6, 1JP8, 1JP9, 1JPB, 1JW8, 1L2K, 1LTW, 1LUE, 1MBC, 1MBD, 1MBI, 1MBN, 1MBO, 1MCY, 1MGN, 1MLF, 1MLG, 1MLH, 1MLJ, 1MLK, 1MLL, 1MLM, 1MLN, 1MLO, 1MLQ, 1MLR, 1MLS, 1MLU, 1MOA, 1MOB, 1MOC, 1MOD, 1MTI, 1MTJ, 1MTK, 1MYF, 1MYM, 1MYZ, 1MZ0, 1N9F, 1N9H, 1N9I, 1N9X, 1NAZ, 1O16, 1OBM, 1OFJ, 1OFK, 1SPE, 1SWM, 1TES, 1U7R, 1U7S, 1UFJ, 1UFP, 1V9Q, 1VXA, 1VXB, 1VXC, 1VXD, 1VXE, 1VXF, 1VXG, 1VXH, 1WVP, 1YOG, 1YOH, 1YOI, 2BLH, 2BLI, 2BLJ, 2BW9, 2BWH, 2CMM, 2D6C, 2E2Y, 2EB8, 2EB9, 2EF2, 2EKT, 2EKU, 2EVK, 2EVP, 2G0R, 2G0S, 2G0V, 2G0X, 2G0Z, 2G10, 2G11, 2G12, 2G14, 2JHO, 2MB5, 2MBW, 2MGA, 2MGB, 2MGC, 2MGD, 2MGE, 2MGF, 2MGG, 2MGH, 2MGI, 2MGJ, 2MGK, 2MGL, 2MGM, 2MYA, 2MYB, 2MYC, 2MYD, 2MYE, 2OH8, 2OH9, 2OHA, 2OHB, 2SPL, 2SPM, 2SPN, 2SPO, 2W6W, 2W6X, 2W6Y, 2Z6S, 2Z6T, 2ZSN, 2ZSO, 2ZSP, 2ZSQ, 2ZSR, 2ZSS, 2ZST, 2ZSX, 2ZSY, 2ZSZ, 2ZT0, 2ZT1, 2ZT2, 2ZT3, 2ZT4, 3A2G, 3ASE, 3E4N, 3E55, 3E5I, 3E5O, 3ECL, 3ECX, 3ECZ, 3ED9, 3EDA, 3EDB, 3H57, 3H58, 3K9Z, 3M38, 3M39, 3M3A, 3M3B, 3MN0, 3NML, 3O89, 3OGB, 3SDN, 3U3E, 4FWX, 4FWY, 4FWZ, 4H07, 4H0B, 4IT8, 4MBN, 5MBN",NULL
+323,"Thyroid peroxidase, TPO",EC=1.11.1.8,Homo sapiens (Human):9606,Protein>Enzyme,P07202,NULL,NULL
+324,34 kDa antigenic protein,NULL,Mycobacterium paratuberculosis:1770,Protein>Others,Q04959 [167-298],NULL,NULL
+325,Sequential epitope on GP5,NULL,Porcine reproductive and respiratory syndrome virus (strain KY-35) (PRRSV),Protein>Others,NULL,NULL,NULL
+326,"Prcine reproductive and respiratory syndrome virus, RSV",NULL,Porcine reproductive and respiratory syndrome virus (PRRSV):28344,Virus,NULL,NULL,NULL
+327,"Prostate-specific antigen, PSA","Kallikrein-3
+Semenogelase
+Gamma-seminoprotein, Seminin
+P-30 antigen",Homo sapiens (Human):9606,Protein>Others,P07288,"2ZCH, 2ZCK, 2ZCL, 3QUM",NULL
+328,Imidazol,NULL,None,Organic molecules or materials,NULL,NULL,NULL
+329,Variable surface glycoprotein LiTat 1.5,NULL,Trypanosoma brucei gambiense:31285,Protein>Others,E7EDN2,NULL,NULL
+330,VSG protein,NULL,Trypanosoma brucei gambiense:31285,Protein>Others,Q9BHJ7,NULL,NULL
+331,"Glucan 1,3-beta-glucosidase","Exo-1,3-beta-glucanase",Candida albicans (Yeast):5476,Protein>Others,P29717,"1CZ1, 1EQC, 1EQP, 2PB1, 2PBO, 2PC8, 2PF0, 3N9K, 3O6A",NULL
+332,"Transcription factor E2F4, E2F-4",NULL,Homo sapiens (Human):9606,Protein>Others,Q16254,1CF7,NULL
+333,Envelope protein,NULL,Japanese encephalitis virus:11072,Protein>Others,P88865,NULL,NULL
+334,"Modification methylase TaqI, M.TaqI","Adenine-specific methyltransferase TaqI
+EC=2.1.1.72",Thermus aquaticus:271,Protein>Enzyme,P14385,"1AQI, 1AQJ, 1G38, 2ADM, 2IBS, 2IBT, 2IH2, 2IH4, 2IH5, 2JG3, 2NP6, 2NP7",NULL
+335,"L3,7,9 lipooligosaccharide, LOS",NULL,Unknown,Organic molecules or materials,NULL,NULL,NULL
+336,SPARC,"Basement-membrane protein 40, BM-40
+Osteonectin, ON
+Secreted protein acidic and rich in cysteine",Homo sapiens (Human):9606,Protein>Others,P09486,"1BMO, 1NUB, 1SRA, 2V53",NULL
+337,Genome polyprotein,NULL,Hepatitis C virus genotype 1b (isolate BK) (HCV):11105,Protein>Others,P26663,"1A1Q, 1BT7, 1C2P, 1CSJ, 1CU1, 1GX5, 1GX6, 1JXP, 1NHU, 1NHV, 1NS3, 1OS5, 1QUV, 2AWZ, 2AX0, 2AX1, 2BRK, 2BRL, 2DXS, 2GIQ, 2GIR, 2HAI, 2HWH, 2HWI, 2I1R, 2JC0, 2JC1, 2O5D, 2WCX, 2WHO, 2WRM, 2XWY, 2ZKU, 3BR9, 3BSA, 3BSC, 3CDE, 3CIZ, 3CJ0, 3CJ2, 3CJ3, 3CJ4, 3CJ5, 3CO9, 3CVK, 3CWJ, 3D28, 3D5M, 3E51, 3FQK, 3FRZ, 3G86, 3GYN, 3H2L, 3H59, 3H5S, 3H5U, 3H98, 3IGV, 3MF5, 3UA7, 3UDL, 3VQS, 4A92, 4B6E, 4B6F, 4B71, 4B73, 4B74, 4B75, 4B76, 4DGV, 4DGY, 4EO6, 4EO8, 4KAI, 4KB7, 4KBI, 4KE5, 8OHM",NULL
+338,"Capsular polysaccharide, CPS",NULL,Neisseria meningitidis serogroup B:491,Organic molecules or materials,NULL,NULL,NULL
+339,"Non-structural protein 2, NSP2","NCVP3
+Non-structural RNA-binding protein 35, NS35",Rotavirus A (strain SA11-Ramig G3-Px[x]-Ix-Rx-Cx-Mx-Ax-Nx-Tx-Ex-Hx) (RV-A) (Simian Agent 11 (strain Ramig)):36435,Protein>Others,Q03243,"1L9V, 2R7C, 2R7J, 2R7P, 2R8F, 4G0A, 4G0J",NULL
+340,EG95,NULL,Echinococcus granulosus:6210,Protein>Others,Q9GND7,NULL,NULL
+341,Phosphotyrosine,NULL,None,Protein>Others,NULL,NULL,NULL
+342,"Mycotoxin deoxynivalenol, DON",NULL,Gibberella zeae (Wheat head blight fungus) (Fusarium graminearum):5518,Organic molecules or materials,NULL,NULL,"DON is mainly produced by the fungus Gibberella zeae (Schwein.) Petch (anamorph, Fusarium graminearum Schwabe). At the cellular level, the main toxic effect of DON is inhibition of protein synthesis via binding to ribosomes and interfering with peptidyltransferase. In animals, DON can cause anorexia and emesis (vomiting)."
+343,Hirudin variant-2,NULL,Hirudo medicinalis (Medicinal leech):6421,Protein>Others,P09945,"1A2C, 1A46, 1A4W, 1A5G, 1A61, 1B5G, 1DOJ, 1K21, 1K22, 1NRS, 1TMB, 1TMU, 1VZQ, 1W7G, 1WAY, 2C8W, 2C8X, 2C8Y, 2C8Z, 2C90, 2C93, 2R2M, 2ZFQ, 2ZFR, 2ZG0, 2ZHE, 2ZHF, 2ZHW, 3BIU, 3BIV, 3F68, 3HAT, 3HTC, 3P17, 3QTO, 3QTV, 3QWC, 3QX5, 3RLW, 3RLY, 3RM0, 3RM2, 3RML, 3RMM, 3RMN, 3RMO, 3SHA, 3SHC, 3SI3, 3SI4, 3SV2, 3T5F, 3TU7, 3U98, 3U9A, 3UWJ, 4BAO, 4E7R, 4HTC, 4LOY, 4N3L, 4NZE","Hirudin is a potent thrombin-specific protease inhibitor. It forms a stable non-covalent complex with alpha-thrombin, thereby abolishing its ability to cleave fibrinogen."
+344,Interleukin-6 receptor,"Interleukin-6 receptor subunit alpha alternative name(s):
+IL-6 receptor subunit alpha, IL-6R subunit alpha, IL-6R-alpha, IL-6RA
+IL-6R 1
+Membrane glycoprotein 80, gp80
+CD_antigen=CD126
+
+Interleukin-6 receptor subunit beta alternative name(s):
+IL-6 receptor subunit beta, IL-6R subunit beta, IL-6R-beta, IL-6RB
+CDw130
+Interleukin-6 signal transducer
+Membrane glycoprotein 130, gp130
+Oncostatin-M receptor subunit alpha
+CD_antigen=CD130",Homo sapiens (Human):9606,Protein>Receptor,"P08887, P40189","IL-6R-alpha: 1N26, 1P9M, 2ARW
+IL-6R-beta: 1BJ8, 1BQU, 1I1R, 1P9M, 1PVH, 3L5H, 3L5I, 3L5J",NULL
+345,Recombinant polyHistidine tagged fusion protein,NULL,Unknown,Protein>Others,NULL,NULL,NULL
+346,Trypsin inhibitor 2,"EETI-II
+Trypsin inhibitor II",Ecballium elaterium (Jumping cucumber):3679,Protein>Others,P12071,"1H9H, 1H9I, 1W7Z, 2C4B, 2ETI, 2IT7, 2LET",NULL
+347,Myc proto-oncogene protein,"Class E basic helix-loop-helix protein 39, bHLHe39
+Proto-oncogene c-Myc
+Transcription factor p64",Homo sapiens (Human):9606,Protein>Others,P01106,"1A93, 1EE4, 1MV0, 1NKP, 2A93","Participates in the regulation of gene transcription. Binds DNA in a non-specific manner, yet also specifically recognizes the core sequence 5'-CAC[GA]TG-3'. Seems to activate the transcription of growth-related genes."
+348,FLAG fusion protein,NULL,Unknown,Protein>Others,NULL,NULL,NULL
+349,Catenin beta-1,Beta-catenin,Homo sapiens (Human):9606,Protein>Others,P35222,"1G3J, 1JDH, 1JPW, 1LUJ, 1P22, 1QZ7, 1T08, 1TH1, 2G57, 2GL7, 2Z6H, 3DIW, 3FQN, 3FQR, 3SL9, 3SLA, 3TX7, 4DJS","Key dowstream component of the canonical Wnt signaling pathway. In the absence of Wnt, forms a complex with AXIN1, AXIN2, APC, CSNK1A1 and GSK3B that promotes phosphorylation on N-terminal Ser and Thr residues and ubiquitination of CTNNB1 via BTRC and its subsequent degradation by the proteasome. In the presence of Wnt ligand, CTNNB1 is not ubiquitinated and accumulates in the nucleus, where it acts as a coactivator for transcription factors of the TCF/LEF family, leading to activate Wnt responsive genes."
+350,T7·Tag peptide MASMTGGQQMG,NULL,Enterobacteria phage T7 (Bacteriophage T7):10760,Protein>Others,NULL,NULL,NULL
+351,Ring-infected erythrocyte surface antigen,NULL,Plasmodium falciparum (isolate FC27 / Papua New Guinea):5837,Protein>Others,P13830,NULL,May disrupt the normal intermolecular interactions of the cytoplasmic domain of band 3 and thereby facilitate the invagination of the red cell membrane which is necessary for the formation of the parasitophorous vacuole.
+352,Abciximab,NULL,"Homo sapiens (Human):9606, Mus musculus (Mouse):10090",Protein>Monoclonal antibody,NULL,NULL,"Abciximab, ReoPro (abciximab) T, is the Fab fragment of the chimeric human-murine monoclonal antibody 7E3. Abciximab binds to the glycoprotein (GP) IIb/IIIa receptor of human platelets and inhibits platelet aggregation. Abciximab also binds to the vitronectin (αvβ3) receptor found on platelets and vessel wall endothelial and smooth muscle cells. The chimeric 7E3 antibody is produced by continuous perfusion in mammalian cell culture. The 47,615 dalton Fab fragment is purified from cell culture supernatant by a series of steps involving specific viral inactivation and removal procedures, digestion with papain and column chromatography."
+353,"Cholera toxin B protein, CTB","Cholera toxin B subunit
+Cholera toxin beta subunit",Vibrio cholerae:666,Protein>Others,Q57193,"1EEI, 1LLR, 1PZJ, 1PZK",NULL
+354,"Sialyl Lewis(X), SLX",NULL,Homo sapiens (Human):9606,Organic molecules or materials,NULL,NULL,"Sialyl Lewis(X), also known as sialyl Le(X) and SLe(X), is a tetrasaccharide carbohydrate that is usually attached to O-glycans on the surface of cells. It is known to play a vital role in cell-to-cell recognition processes. Sialyl Lewis(X) is one of the most important blood group antigens and is displayed on the terminus of glycolipids that are present on the cell surface. The Sialyl Lewis(X) determinant, E-selectin ligand carbohydrate structure, is constitutively expressed on granulocytes and monocytes and mediates inflammatory extravasation of these cells. Resting T and B lymphocytes lack its expression and are induced to strongly express sialyl Lewis(X) upon activation. The Sialyl Lewis(X) determinant is expressed preferentially on activated Th1 cells but not on Th2 cells."
+355,6' ganglioside GM3,NULL,Homo sapiens (Human):9606,Organic molecules or materials,NULL,NULL,NULL
+356,Alpha D-Galactose,NULL,Unknown,Organic molecules or materials,NULL,1HQL,NULL
+357,"Gal alpha (1,3)Gal",NULL,Unknown,Organic molecules or materials,NULL,NULL,NULL
+358,Immunoglobulin G-binding protein A,"IgG-binding protein A
+Staphylococcal protein A (SPA)",Staphylococcus aureus:1280,Protein>Others,P38507,"1BDC, 1BDD, 1EDI, 1EDJ, 1EDK, 1EDL, 1FC2, 1H0T, 1LP1, 1Q2N, 1SS1, 2JWD, 2M5A, 2SPZ, 3MZW, 4NPD, 4NPE, 4NPF","Protein A is a surface protein originally found in the cell wall of the bacterium Staphylococcus aureus. It has been an important immunodiagnostic reagent because of its ability to bind the Fc fragment of a wide range of mammalian immunoglobulins through interaction with the heavy chain. The result of this type of interaction is that, in serum, the bacteria will bind IgG molecules in the wrong orientation on their surface which disrupts opsonization and phagocytosis. Protein A binds with high affinity to human IgG1 and IgG2 as well as mouse IgG2a and IgG2b. Protein A binds with moderate affinity to human IgM, IgA and IgE as well as to mouse IgG3 and IgG1. It does not react with human IgG3 or IgD, nor will it react to mouse IgM, IgA or IgE."
+359,E2 protein,NULL,Classical swine fever virus:11096,Protein>Others,Q5U8X5 [690-1062],NULL,NULL
+360,Complement decay-accelerating factor,CD_antigen=CD55,Homo sapiens (Human):9606,Protein>Others,P08174,"1H03, 1H04, 1H2P, 1H2Q, 1M11, 1NWV, 1OJV, 1OJW, 1OJY, 1OK1, 1OK2, 1OK3, 1OK9, 1UOT, 1UPN, 2C8I, 2QZD, 2QZF, 2QZH, 3IYP, 3J24","This protein recognizes C4b and C3b fragments that condense with cell-surface hydroxyl or amino groups when nascent C4b and C3b are locally generated during C4 and c3 activation. Interaction of daf with cell-associated C4b and C3b polypeptides interferes with their ability to catalyze the conversion of C2 and factor B to enzymatically active C2a and Bb and thereby prevents the formation of C4b2a and C3bBb, the amplification convertases of the complement cascade."
+361,Interleukin-2 (IL-2),"T-cell growth factor, TCGF
+INN=Aldesleukin",Homo sapiens (Human):9606,Protein>Others,P60568,"1IRL, 1M47, 1M48, 1M49, 1M4A, 1M4B, 1M4C, 1NBP, 1PW6, 1PY2, 1QVN, 1Z92, 2B5I, 2ERJ, 3INK, 3QAZ, 3QB1","Produced by T-cells in response to antigenic or mitogenic stimulation, this protein is required for T-cell proliferation and other activities crucial to regulation of the immune response. Can stimulate B-cells, monocytes, lymphokine-activated killer cells, natural killer cells, and glioma cells."
+362,VHBL plasmid DNA,NULL,None,Nucleic acids,NULL,NULL,NULL
+363,Mutalysin-II (mut-II),NULL,Lachesis muta muta (Bushmaster):8753,Protein>Others,NULL,NULL,Mut-II is a 22.5 kDa single chain protein with broad substrate specificity and traces of hemorrhagic effects.
+364,Caprine arthritis encephalitis virus (strain 63) (CAEV-63),NULL,Caprine arthritis encephalitis virus (strain 63) (CAEV-63):11662,Virus,NULL,NULL,NULL
+365,Sialic acid-binding Ig-like lectin 9 (Siglec-9),Protein FOAP-9,Homo sapiens (Human):9606,Protein>Others,Q9Y336,NULL,"Putative adhesion molecule that mediates sialic-acid dependent binding to cells. Preferentially binds to alpha-2,3- or alpha-2,6-linked sialic acid. The sialic acid recognition site may be masked by cis interactions with sialic acids on the same cell surface."
+366,Sphingomyelin phosphodiesterase D LiSicTox-alphaIA1bi,"Dermonecrotic protein 1
+LiD1
+LiP1, P1
+Sphingomyelin phosphodiesterase D 1, SMD 1, SMase D 1, Sphingomyelinase D 1
+EC=3.1.4.41
+recLiD1",Loxosceles intermedia (Spider):58218,Protein>Others,P0CE81,NULL,NULL
+367,Kit ligand,"Mast cell growth factor, MGF
+Stem cell factor, SCF
+c-Kit ligand",Homo sapiens (Human):9606,Protein>Others,P21583,"1EXZ, 1SCF, 2E9W","Kit ligand plays an essential role in the regulation of cell survival and proliferation, hematopoiesis, stem cell maintenance, gametogenesis, mast cell development, migration and function, and in melanogenesis. KITLG/SCF binding can activate several signaling pathways."
+368,26-amino acid Bim peptide,NULL,None,Protein>Others,NULL,NULL,NULL
+369,Sabutoclax,NULL,None,Inorganic molecules or materials,NULL,NULL,"Sabutoclax (""BI97C1"") is a potent small molecule antagonist of the Mcl-1-BH3 interaction."
+370,Mouse IgG Fc,NULL,Mus musculus (Mouse):10090,Protein>Others,NULL,NULL,NULL
+371,Carcinoembryonic antigen-related cell adhesion molecule 5,"Carcinoembryonic antigen, CEA
+Meconium antigen 100
+CD_antigen=CD66e",Homo sapiens (Human):9606,Protein>Others,P06731,"2QSQ, 2QST,2VER, 1E07",NULL
+372,MJ33,1-hexadecyl-3-trifluoroethylglycero-sn-2-phosphomethanol,Unknown,Inorganic molecules or materials,NULL,NULL,MJ33 is a kind of inhibitor against phospholipases A2.
+373,"Pseudorabies virus, PrV",NULL,Suid herpesvirus 1 (Pseudorabies virus):10345,Virus,NULL,NULL,NULL
+374,"Porcine reproductive and respiratory syndrome virus, PRRSV",NULL,Porcine reproductive and respiratory syndrome virus (PRRSV):28344,Virus,NULL,NULL,NULL
+375,Peptide SP1 (LDLERDARVRAERNANEMSI) of Paramyosin,"Paramyosin alternative name(s):
+Antigen B, AgB",Taenia solium (Pork tapeworm):6204,Protein>Others,P35418 [34-53],NULL,"Paramyosin is a major structural component of many thick filaments isolated from invertebrate muscles. It is a prominent antigen in human cysticercosis, may have a role as a modulator of the host immune response. It is able to bind collagen and has complement inhibitor activity."
+376,Peptide SP2 (LDELSGTSSQTHDAIRRKDME) of Paramyosin,"Paramyosin alternative name(s):
+Antigen B, AgB",Taenia solium (Pork tapeworm):6204,Protein>Others,P35418 [62-81],NULL,"Paramyosin is a major structural component of many thick filaments isolated from invertebrate muscles. It is a prominent antigen in human cysticercosis, may have a role as a modulator of the host immune response. It is able to bind collagen and has complement inhibitor activity."
+377,Protein CYR61,"CCN family member 1
+Cysteine-rich angiogenic inducer 61
+Insulin-like growth factor-binding protein 10, IBP-10, IGF-binding protein 10, IGFBP-10
+Protein GIG1",Homo sapiens (Human):9606,Protein>Others,O00622,NULL,"CYR61 promotes cell proliferation, chemotaxis, angiogenesis and cell adhesion."
+378,"Integrin alpha-M, integrin αM","Cell surface glycoprotein MAC-1 subunit alpha
+CR-3 alpha chain
+Leukocyte adhesion receptor MO1
+Neutrophil adherence receptor
+CD11 antigen-like family member B
+CD_antigen=CD11b",Homo sapiens (Human):9606,Protein>Receptor,P11215,"1BHO, 1BHQ, 1IDN, 1IDO, 1JLM, 1M1U, 1MF7, 1N9Z, 1NA5, 2LKE, 2LKJ, 3Q3G, 3QA3",NULL
+379,Nuclear factor erythroid 2-related factor 2,"NF-E2-related factor 2, NFE2-related factor 2
+Nuclear factor, erythroid derived 2, like 2",Mus musculus (Mouse):10090,Protein>Others,Q60795,"1X2R, 2DYH",Transcription activator that binds to antioxidant response (ARE) elements in the promoter regions of target genes. Important for the coordinated up-regulation of genes in response to oxidative stress. May be involved in the transcriptional activation of genes of the beta-globin cluster by mediating enhancer activity of hypersensitive site 2 of the beta-globin locus control region.
+380,Aspartic protease Bla g 2,"Allergen Bla g II
+Allergen=Bla g 2
+EC=3.4.23.-",Blattella germanica (German cockroach) (Blatta germanica):6973,Protein>Others,P54958,"1YG9, 2NR6, 3LIZ",Bla g 2 functions as a digestive enzyme in the cockroach.
+381,Anfluenza A virus strain H2N2,NULL,H2N2 subtype:114729,Virus,NULL,NULL,NULL
+382,Anfluenza A virus strain H1N1,NULL,H1N1 subtype:114727,Virus,NULL,NULL,NULL
+383,Influenza A virus (strain A/Texas/1/1977 H3N2),NULL,Influenza A virus (strain A/Texas/1/1977 H3N2):444318,Virus,NULL,NULL,NULL
+384,Swine-origin influenza virus A/2009,NULL,Swine-origin influenza virus A/2009,Virus,NULL,NULL,NULL
+385,"Interleukin-8, IL-8","C-X-C motif chemokine 8
+Emoctakin
+Granulocyte chemotactic protein 1, GCP-1
+Monocyte-derived neutrophil chemotactic factor, MDNCF
+Monocyte-derived neutrophil-activating peptide, MONAP
+Neutrophil-activating protein 1, NAP-1
+Protein 3-10C
+T-cell chemotactic factor",Homo sapiens (Human):9606,Protein>Others,P10145,"1ICW, 1IKL, 1IKM, 1IL8, 1ILP, 1ILQ, 1QE6, 1ROD, 2IL8, 3IL8",NULL
+386,P. brasiliensis 75-kDa protein,NULL,Paracoccidioides brasiliensis (strain Pb18):502780,Protein>Others,NULL,NULL,A secreted 75 kDa protein from P. brasiliensis with phosphatase activity.
+387,Hemagglutinin glycoprotein,NULL,Rinderpest virus (strain RBOK) (RDV):36409,Protein>Others,P41355,3PWU,Hemagglutinin glycoprotein attaches the virus to cell receptors and thereby initiating infection. Binding of H protein to the receptor induces a conformational change that allows the F protein to trigger virion/cell membranes fusion. Down-regulates human MCP/CD46 cell surface expression.
+388,Phosphoenolpyruvate-protein phosphotransferase,"Phosphotransferase system, enzyme I
+EC=2.7.3.9",Escherichia coli (strain K12):83333,Protein>Enzyme,P08839,"1EZA, 1EZB, 1EZC, 1EZD, 1ZYM, 2EZA, 2EZB, 2EZC, 2HWG, 2KX9, 2L5H, 2MP0, 2XDF, 3EZA, 3EZB, 3EZE",General (non sugar-specific) component of the phosphoenolpyruvate-dependent sugar phosphotransferase system (sugar PTS). This major carbohydrate active-transport system catalyzes the phosphorylation of incoming sugar substrates concomitantly with their translocation across the cell membrane. Enzyme I transfers the phosphoryl group from phosphoenolpyruvate (PEP) to the phosphoryl carrier protein (HPr).
+389,"Lipopolysaccharide, LPS",NULL,Escherichia coli:562,Organic molecules or materials,NULL,NULL,NULL
+390,S-layer protein,"Surface array protein, SAP",Campylobacter fetus:196,Protein>Others,P35827,NULL,The S-layer is a paracrystalline mono-layered assembly of proteins which coats the surface of bacteria. This protein is critical for virulence.
+391,"Major surface protein 1a, MSP1A",NULL,Anaplasma marginale (strain Florida):320483,Protein>Others,B9KIE7,NULL,NULL
+392,"Non-structural protein 1, NS1",NULL,Dengue virus type 2 (strain Thailand/16681/1984) (DENV-2):31634,Protein>Others,P29990 [776-1127],2R69,NULL
+393,"Sarcoplasmic/endoplasmic reticulum calcium ATPase 2, SERCA2, SR Ca(2+)-ATPase 2","Calcium pump 2
+Calcium-transporting ATPase sarcoplasmic reticulum type, slow twitch skeletal muscle isoform
+Endoplasmic reticulum class 1/2 Ca(2+) ATPase
+EC=3.6.3.8",Homo sapiens (Human):9606,Protein>Enzyme,P16615,NULL,This magnesium-dependent enzyme catalyzes the hydrolysis of ATP coupled with the translocation of calcium from the cytosol to the sarcoplasmic reticulum lumen. Isoform 2 is involved in the regulation of the contraction/relaxation cycle.
+394,Adhesin P1,"Attachment protein
+Cytadhesin P1
+MgPa",Mycoplasma genitalium (strain ATCC 33530 / G-37 / NCTC 10195):243273,Protein>Others,P20796,NULL,The protein is the major adhesin mediating the attachment of this mycoplasma to the ciliated epithelium.
+395,"Variant surface glycoproteins LiTat 1.3, VSG LiTat 1.3",NULL,Trypanosoma brucei gambiense:31285,Protein>Others,GI:13276853,NULL,NULL
+396,"Variant surface glycoproteins LiTat 1.5, VSG LiTat 1.5",NULL,Trypanosoma brucei gambiense:31285,Protein>Others,GI:317184371,NULL,NULL
+397,Malondialdehyde-modified LDL (MDA-LDL),NULL,Homo sapiens (Human):9606,Inorganic molecules or materials,NULL,NULL,NULL
+398,Platelet-derived growth factor subunit B,"PDGF-2
+Platelet-derived growth factor B chain
+Platelet-derived growth factor beta polypeptide
+Proto-oncogene c-Sis
+INN=Becaplermin",Homo sapiens (Human):9606,Protein>Others,P01127,"1PDG, 3MJG, 4HQU, 4HQX","Growth factor that plays an essential role in the regulation of embryonic development, cell proliferation, cell migration, survival and chemotaxis. Potent mitogen for cells of mesenchymal origin. Required for normal proliferation and recruitment of pericytes and vascular smooth muscle cells in the central nervous system, skin, lung, heart and placenta. Required for normal blood vessel development, and for normal development of kidney glomeruli. Plays an important role in wound healing. Signaling is modulated by the formation of heterodimers with PDGFA "
+399,Interleukin-10 receptor subunit alpha (IL-10RA),"CDw210a
+Interleukin-10 receptor subunit 1
+CD_antigen=CD210",Homo sapiens (Human):9606,Protein>Receptor,Q13651,"1J7V, 1LQS, 1Y6K, 1Y6M, 1Y6N",Defects in IL10RA are the cause of inflammatory bowel disease type 28 (IBD28).
+400,T-cell surface antigen CD2,"Erythrocyte receptor
+LFA-2
+LFA-3 receptor
+Rosette receptor
+T-cell surface antigen T11/Leu-5
+CD_antigen=CD2",Homo sapiens (Human):9606,Protein>Others,P06729,"1CDB, 1GYA, 1HNF, 1L2Z, 1QA9, 2J6O, 2J7I ","CD2 interacts with lymphocyte function-associated antigen (LFA-3) and CD48/BCM1 to mediate adhesion between T-cells and other cell types. CD2 is implicated in the triggering of T-cells, the cytoplasmic domain is implicated in the signaling function.
+"
+401,p53 protein ,NULL,Unknown,Protein>Others,NULL,NULL,NULL
+402,"Interleukin-10, IL-10","Cytokine synthesis inhibitory factor, CSIF
+",Homo sapiens (Human):9606,Protein>Others,P22301,"1ILK, 1INR, 1J7V, 1LK3, 1Y6K, 2H24, 2ILK ","IL-10 inhibits the synthesis of a number of cytokines, including IFN-gamma, IL-2, IL-3, TNF and GM-CSF produced by activated macrophages and by helper T-cells."
+403,Oxidized low-density lipoprotein ,NULL,Mus musculus (Mouse):10090,Protein>Others,NULL,NULL,NULL
+404,Cytokeratin (CK) 8/18 complex,NULL,Mus musculus (Mouse):10090,Protein>Others,NULL,NULL,NULL
+405,Estrogen,NULL,Unknown,Protein>Others,NULL,NULL,NULL
+406,"Phase I LPS, PI-LPS",NULL,Mus musculus (Mouse):10090,Protein>Others,NULL,NULL,"PI-LPS is a major outer surface component of C. burnetii, which is comprised of three structural domains, as follows: the hydrophobic lipid A, the core oligosaccharide (inner and outer core), and the polysaccharide O-Ag."
+407,"Fanconi anemia group F protein, FANCF ",Protein FACF,Homo sapiens (Human):9606,Protein>Others,Q9NPI8,2IQC,NULL
+408,"Outer membrane protein U, OmpU",Outer membrane protein,Vibrio mimicus:674,Protein>Others,Q27W35,NULL,NULL
+409,α3(IV)NC1,NULL,Homo sapiens (Human):9606,Protein>Others,P53420,NULL,"Goodpasture disease (GP) is an autoimmune disorder mediated by circulating autoantibodies against the noncollagenous-1 (NC1) domain of the α3 chain of type IV collagen (α3(IV)NC1). There are six type IV collagen isoforms, alpha 1(IV)-alpha 6(IV)."
+410,"The multidrug resistance-associated protein 1, MRP1","ATP-binding cassette sub-family C member 1
+Leukotriene C(4) transporter
+LTC4 transporter",Rattus norvegicus (Rat):10116,Protein>Others,Q8CG09,NULL,NULL
+411,Integrin beta-2,"Cell surface adhesion glycoproteins LFA-1/CR3/p150,95 subunit beta
+Complement receptor C3 subunit beta
+CD_antigen
+CD18",Mus musculus (Mouse):10090,Protein>Others,P11835,NULL,NULL
+412,"Human urokinase  receptor, uPAR ",NULL,Homo sapiens (Human):9606,Protein>Receptor,NULL,NULL,NULL
+413,Anti-TNF-α polyclonal antibody,NULL,Oryctolagus cuniculus (Rabbit):9986,Protein>Polyclonal antibody,NULL,NULL,NULL
+414,VIP peptides,Vasoactive intestinal polypeptide,Mus musculus (Mouse):10090,Organ and tissue,P32648,NULL,NULL
+415,"CFP10-ESAT-6, CE",NULL,None,Protein>Others,NULL,NULL,"The 10-kDa culture filtrate protein (CFP10) and 6-kDa early-secreted target antigen (ESAT-6) are two low molecular weight secretory proteins encoded by the Rv3874 and Rv3875 gene, respectively. "
+416,"Botulinum neurotoxin type A, BoNT/A","Bontoxilysin-A
+BOTOX
+",Clostridium botulinum (strain Hall / ATCC 3502 / NCTC 13319 / Type A):441771,Protein>Others,A5HZZ9,"1XTF, 1XTG, 2W2D, 3DSE, 3K3Q, 3QIX, 3QIY, 3QIZ, 3QJ0, 3QW5, 3QW6, 3QW7, 3QW8","Botulinum neurotoxin (BoNT) produced by a Gram-positive bacterium Clostridium botulinumcauses food-borne botulism by oral ingestion of the toxin along with polluted foods. The BoNT is classified into seven serotypes A-G, based on the immunological differences of the toxin. Serotypes A, B, E, and F are dominantly involved in human botulism, whereas serotypes C and D associate with animal and avian diseases."
+417,"Keratinocyte growth factor, KGF",NULL,Homo sapiens (Human):9606,Protein>Others,Q6RK68,NULL,"Keratinocyte growth factor (KGF) secreted by interstitial cells is a kind of paracrine cytokine with multifunction. KGF plays significant roles in epithelial wound repair, embryonic development, immunity, and tumor formation and development. KGF overexpression by adenoviral vector at the wound site leads to a concomitant reepithelialization enhancement, indicating its potential use in reepithelialization.Consistently, KGF produces a rapid and profound stimulation on proliferation and motility of breast cancer cells."
+418,Glycoprotein G,NULL,Rabies virus (strain CVS-11) (RABV):11294,Protein>Others,O92284,NULL,"The rabies virus has a single-stranded, antisense, non-segmented RNA genome that is approximately 12kb long and is comprised of five genes that encode the following proteins: nucleoprotein (N), phosphoprotein (P), matrix protein (M), glycoprotein (G), and RNA polymerase complex (L). The N and G proteins have been identified as viral antigens. The N protein is the main antigen that induces T cell immunity. The G protein is a transmembrane glycoprotein that constitutes the surface spikes of the virus."
+419,"Fibroblast growth factor receptor 3, FGFR-3",CD_antigen,Homo sapiens (Human):9606,Protein>Receptor,P22607,1RY7,NULL
+420,Calcium,NULL,None,Inorganic molecules or materials,NULL,NULL,NULL
+421,DWARF4,NULL,Unknown,Protein>Enzyme,NULL,NULL,DWARF4 is a C22 hydrolase which is classified into plant cytochrome P450 (Cyp450) monooxygenase super family and contains heme and iron in an interior location of the enzyme where it catalyzes the hydroxylation reaction.
+422,"Interleukin 1β, IL1β",NULL,Unknown,Protein>Others,NULL,NULL,NULL
+423,"Trans-sialidase, TcTS",NULL,Trypanosoma cruzi:5693,Protein>Others,Q9BHJ5,NULL,"TcTS, as expressed in the invasive trypomastigote stage, has two clearly defined regions: a globular amino terminus of about 640 amino acids containing the catalytic activity and a variable number of a repeated highly antigenic motif of 12 amino acids known as SAPA."
+424,Glyphosate receptors,NULL,Unknown,Protein>Others,NULL,NULL,"Glyphosate receptors, such as 5-enolpyruvylshikimate-3-phosphate synthase (EPSPS), contains strictly conserved residues of Arg (R)-124, Asp (D)-313, Arg (R)-344, and Arg (R)-386. Binding of glyphosate to these residues can inhibit the EPSPS activity and block the shikimate pathway for synthesis of the aromatic amino acids."
+425,CD147,"Basigin
+5F7
+Collagenase stimulatory factor
+Extracellular matrix metalloproteinase inducer
+Leukocyte activation antigen M6
+OK blood group antigen
+Tumor cell-derived collagenase stimulatory factor",Homo sapiens (Human):9606,Protein>Others,P35613,"3B5H, 3I84, 3I85, 3QQN, 3QR2","CD147 is a transmembrane glycoprotein of the immunoglobulin superfamily. It is highly enriched on the surface of cancer cells. Thus, it has been taken as a biomarker that can be used in cancer detection."
+426,PAP1,Prostatic acid phosphatase,Homo sapiens (Human):9606,Protein>Enzyme,P15309,"1CVI, 1ND5, 1ND6, 2HPA, 2L3H, 2L77, 2L79, 3PPD",NULL
+427,"Prostatic acid phosphatase, PAP","5'-nucleotidase, 5'-NT
+Ecto-5'-nucleotidase
+Thiamine monophosphatase, TMPase",Homo sapiens (Human):9606,Protein>Enzyme,P15309,"1CVI, 1ND5, 1ND6, 2HPA, 2L3H, 2L77, 2L79, 3PPD",
+428,PAP3,Prostatic acid phosphatase,Homo sapiens (Human):9606,Protein>Enzyme,P15309,"1CVI, 1ND5, 1ND6, 2HPA, 2L3H, 2L77, 2L79, 3PPD",NULL
+429,PAP4,Prostatic acid phosphatase,Homo sapiens (Human):9606,Protein>Enzyme,P15309,"1CVI, 1ND5, 1ND6, 2HPA, 2L3H, 2L77, 2L79, 3PPD",NULL
+430,FLAG sequence,NULL,Unknown,Protein>Others,NULL,NULL,"FLAG, a short hydrophilic peptide consisting of eight amino acids (DYKDDDDK), has been widely used as a fusion tag for the purification and detection of a wide variety of recombinant proteins."
+431,Growth hormone secretagogue receptor type 1,"GHS-R
+GH-releasing peptide receptor
+GHRP
+Ghrelin receptor
+
+",Homo sapiens (Human):9606,Protein>Receptor,Q92847,NULL,NULL
+432,Genome polyprotein,NULL,Classical swine fever virus (strain Brescia) (CSFV) (Hog cholera virus):11098,Protein>Others,P21530,NULL,"Genome polyprotein was cleaved into 13 chains. The E2 glycoprotein is the most immunodominant protein, eliciting neutralizing antibodies which can protect animals from virus challenge."
+433,Non-structural protein NS1,"Non-capsid protein NS-1
+NCVP1",Unknown,Protein>Others,NULL,NULL,"The dengue virus non-structural NS1 protein is the only glycoprotein among its 7 NS proteins, which is an obbligato component in the DENV replication complex. All non-structural proteins are intracellular proteins with the exception of dengue NS1 protein, which exists as secreted as well as a membrane-associated protein. The molecular weight of NS1 is about 42-50 kDa and it approximately consists of 352 amino acids, which possesses both group specific and type specific determinants and has been postulated to contribute to the pathogenesis of dengue."
+434,"Thomsen--Friedenreich glycoantigen, TFAg",NULL,Homo sapiens (Human):9606,Organic molecules or materials,NULL,NULL,"The cancer-associated Thomsen--Friedenreich glycoantigen (TFAg), a galactose β1-3N-acetylgalactosamine disaccharide exposed on up to 90% of human carcinomas, is one of the major galectin-3 carbohydrate ligands present on cancer cells. Increased levels of TFAg correlate with metastasis in gastric, colorectal and breast carcinomas."
+435,"Transmissible gastroenteritis virus, TGEV",NULL,None,Virus,NULL,NULL,"Transmissible gastroenteritis virus (TGEV) is the causative agent of transmissible gastroenteritis (TGE), a highly contagious enteric disease in swine."
+436,NS2,Non-structural protein NS2,Bluetongue virus 8:197780,Protein>Others,B4ERJ7,NULL,The NS2 protein of Bluetongue virus (BTV) is an important non-structural protein and plays important roles in viral replication and assembly. It is a multifunctional protein and is the only BTV protein known to undergo phosphorylation.
+437,"Triosephosphate isomerase, TPI","TIM
+EC=5.3.1.1
+Triose-phosphate isomerase",Taenia solium (Pork tapeworm):6204,Protein>Enzyme,Q9GTX8,NULL,NULL
+438,"Cold-shock DEAD-box protein A, CsdA","ATP-dependent RNA helicase DeaD
+EC=3.6.4.13",Mycobacterium tuberculosis:1773,Protein>Enzyme,Q11039,NULL,NULL
+439,"Lipopolysaccharide, LPS",NULL,Homo sapiens (Human):9606,Organic molecules or materials,NULL,NULL,NULL
+440,β2m-free or β2m-associated HLA class I heavy chains,NULL,Unknown,Protein>Others,NULL,NULL,NULL
+441,"Plasminogen, EC=3.4.21.7",NULL,Homo sapiens (Human):9606,Protein>Others,P00747,"1B2I, 1BML, 1BUI, 1CEA, 1CEB, 1DDJ, 1HPJ, 1HPK, 1I5K, 1KI0, 1KRN, 1L4D, 1L4Z, 1PK4, 1PKR, 1PMK, 1QRZ, 1RJX, 2DOH, 2DOI, 2KNF, 2L0S, 2PK4, 3UIR, 4A5T, 4DCB, 4DUR, 4DUU, 5HPG","Plasminogen was cleaved into the following 5 chains: plasmin heavy chain A, activation peptide, angiostatin, plasmin heavy chain A, short form, plasmin light chain B."
+442,"Transforming growth factor beta receptor type 3, TGF-beta receptor type 3, TGFR-3","Betaglycan
+Transforming growth factor beta receptor III
+Short name=TGF-beta receptor type III",Homo sapiens (Human):9606,Protein>Receptor,Q03167,NULL,The transforming growth factor beta receptor type 3 binds to TGF-beta. It could be involved in capturing and retaining TGF-beta for presentation to the signaling receptors.
+443,"Fatty acid synthase, EC=2.3.1.85",NULL,Homo sapiens (Human):9606,Protein>Enzyme,P49327,"1XKT, 2CG5, 2JFD, 2JFK, 2PX6, 3HHD, 3TJM","The target antigen against K1 autoantibody was analyzed and revealed as fatty acid synthase(FASN), a well known oncogenic protein."
+444,Capsid protein,NULL,Porcine circovirus 2 (PCV2):85708,Protein>Others,O56129,NULL,"Porcine circovirus 2 (PCV2) contains a single-stranded circular DNA genome of 1.76–1.78 kb with three primary open reading frames (ORFs). ORF2 encodes the only structural  protein, Cap, which is the immunodominant antigenic area of the virus  and the basis for vaccine development."
+445,Survival motor neuron protein,"Component of gems 1
+Gemin-1",Homo sapiens (Human):9606,Protein>Others,Q16637,"1G5V, 1MHN, 2LEH, 3S6N, 4A4E, 4A4G, 4GLI","SMN (survival-of-motor-neurons) is the protein affected by mutation in Spinal Muscular Atrophy (SMA), a neuromuscular disorder characterised by loss of motor neurons, and the severity of SMA is inversely related to functional SMN levels. The SMN core complex, consisting of SMN with seven additional gemins, gemin2–8, and unrip (unr interacting protein), assembles U snRNPs in the cytoplasm and transports them into the nucleus for assembly into the spliceosome."
+446,Clumping factor A and B,"Fibrinogen receptor A and B
+Fibrinogen-binding protein A and B",Staphylococcus aureus (strain NCTC 8325):9306,Protein>Others,"Q2G015, Q2FUY2",Clumping factor A: 2VR3,NULL
+447,"CD40 ligand, CD40-L","Tumor necrosis factor ligand superfamily member 5
+TNF-related activation protein, AP
+T-cell antigen Gp39
+CD_antigen=CD154",Homo sapiens (Human):9606,Protein>Others,P29965,"1ALY , 1I9R , 3LKJ , 3QD6",NULL
+448,Thrombopoietin,"C-mpl ligand
+ML
+Megakaryocyte colony-stimulating factor
+Megakaryocyte growth and development factor
+MGDF
+Myeloproliferative leukemia virus oncogene ligand",Homo sapiens (Human):9606,Protein>Others,P40225,"1V7M, 1V7N",NULL
+449,"Estrone-3-glucuronide, E-3-G",NULL,Homo sapiens (Human):9606,Organic molecules or materials,NULL,NULL,E-3-G is a derivative of estradiol found in urine. It marks the appearance of fertile-type mucus at the beginning of the fertile period of the human menstrual cycle.
+450,"Mucin-1, MUC-1","Breast carcinoma-associated antigen DF3
+Cancer antigen 15-3
+CA 15-3
+Carcinoma-associated mucin
+Episialin
+H23AG
+Krebs von den Lungen-6
+KL-6
+PEMT
+Peanut-reactive urinary mucin
+PUM
+Polymorphic epithelial mucin
+PEM
+Tumor-associated epithelial membrane antigen
+EMA
+Tumor-associated mucin
+CD_antigen=CD227",Homo sapiens (Human):9606,Protein>Others,P15941,"1SM3, 2ACM, 2FO4",NULL
+451,"Paramyosin, Ts-Pmy",NULL,Trichinella spiralis (Trichina worm):6334,Protein>Others,A3RLX8,NULL,Paramyosin (Ts-Pmy) is an immunodominant antigens of T. spiralis.
+452,Fibroblast growth factors,NULL,Mus musculus (Mouse):10090,Protein>Others,"P61148, P15655, P05524, P11403, P15656, P21658, P36363, P37237, P54130, O35565, P70378, P61329, P70377, P70379, O35622, Q9ESL8, P63075, O89101, Q9ESL9, Q9JJN1, Q9ESS2, Q9EPC2",NULL,NULL
+453,"S-adenosyl-L-homocysteine, SAH",NULL,Unknown,Organic molecules or materials,NULL,NULL,"The chemical compound S-adenosyl-L-homocysteine (SAH) is an intermediate in methionine metabolism, which is observed in all organisms from bacteria to humans. It is produced by all S-adenosyl-L-methionine (SAM)-dependent enzymatic methylation reactions via SAM demethylation, and followed by conversion to homocysteine (Hcy) and adenosine by the enzyme SAH hydrolase."
+454,Type A/B ephrins,NULL,Mus musculus (Mouse):10090,Protein>Others,"Ephrin-A1:P52793, Ephrin-A2:P52801, Ephrin-A3:O08545, Ephrin-A4:O08542, Ephrin-A5:O08543, Ephrin-B1:P52795, Ephrin-B2:P52800, Ephrin-B3:O35393","Ephrin-A5:1SHW, 1SHX
+Ephrin-B2:1IKO, 1KGY
+Ephrin-B3:3D12",NULL
+455,"Allergen Ara h 1, clone P41B","Allergen Ara h I
+Allergen=Ara h 1",Arachis hypogaea (Peanut):3818,Protein>Others,"3S7E, 3S7I, 3SMH",NULL,NULL
+456,Eukaryotic translation initiation factor 2 subunit 1,"Eukaryotic translation initiation factor 2 subunit alpha
+eIF-2-alpha
+eIF-2A
+eIF-2alpha",Homo sapiens (Human):9606,Protein>Others,P05198,"1KL9, 1Q8K",NULL
+457,"Peptidyl-prolyl cis-trans isomerase A, PPIase A","Rotamase A
+Cyclophilin A
+Cyclosporin A-binding protein
+EC= 5.2.1.8",Homo sapiens (Human):9606,Protein>Enzyme,P62937,"1AK4 , 1AWQ , 1AWR , 1AWS , 1AWT , 1AWU , 1AWV , 1BCK , 1CWA , 1CWB , 1CWC , 1CWF , 1CWH , 1CWI , 1CWJ , 1CWK , 1CWL , 1CWM , 1CWO , 1FGL , 1M63 , 1M9C , 1M9D , 1M9E , 1M9F , 1M9X , 1M9Y , 1MF8 , 1MIK , 1NMK , 1OCA , 1RMH , 1VBS , 1VBT , 1W8L , 1W8M , 1W8V , 1YND , 1ZKF , 2ALF , 2CPL , 2CYH , 2RMA , 2RMB , 2X25 , 2X2A , 2X2C , 2X2D , 2XGY , 3CYH , 3CYS , 3K0M , 3K0N , 3K0O , 3K0P , 3K0Q , 3K0R , 3ODI , 3ODL , 3RDD , 4CYH , 5CYH",
+458,Leishmania infantum,NULL,None,Miscellaneous,NULL,NULL,Leishmania infantum caused canine visceral leishmaniasis (CVL).
+459,"2,2′,4,4′-tetrabromodiphenyl ether, BDE47",NULL,None,Organic molecules or materials,NULL,NULL,"Polybrominated diphenyl ethers (PBDEs) are a group of chemicals known as brominated flame retardants, introduced partly in response to the banning of previously-used fire retardants, polybrominated biphenyls and polychlorinated biphenyls. 2,2′,4,4′-Tetrabromodiphenyl ether (BDE47) is one of the most ubiquitous and toxic congeners in the environment and can be an indicator of exposure to lower brominated PBDEs."
+460,Low-density lipoprotein receptor,LDL receptor,Homo sapiens (Human):9606,Protein>Receptor,P01130,"1AJJ , 1D2J , 1F5Y , 1F8Z , 1HJ7 , 1HZ8 , 1I0U , 1IJQ , 1LDL , 1LDR , 1N7D , 1XFE , 2FCW , 2KRI , 2LGP , 2W2M , 2W2N , 2W2O , 2W2P , 2W2Q , 3BPS , 3GCW , 3GCX , 3M0C , 3P5B , 3P5C , 3SO6",NULL
+461,"Insulin-like growth factor I, IGF-I",Somatomedin,Bos taurus (Bovine):9913,Protein>Others,P07455,NULL,NULL
+462,"Shiga toxin, Shiga toxin subunit A and Shiga toxin subunit B",NULL,Shigella dysenteriae:622,Protein>Others,"Shiga toxin subunit A: Q9FBI2 , Shiga toxin subunit B: Q7BQ98","Shiga toxin subunit A: 1DM0 , 1R4Q
+Shiga toxin subunit B: 1DM0 , 1R4Q",Shiga toxin contains a single subunit A and five copies of subunit B.
+463,"FGFR-1, FGFR-2, FGFR-3 and FGFR-4",NULL,Homo sapiens (Human):9606,Protein>Receptor,"FGFR-1: P11362, FGFR-2: P21802, FGFR-3: P22607, FGFR-4: P22455","FGFR-1: 1AGW ,1CVS ,1EVT ,1FGI ,1FGK ,1FQ9 ,1XR0 ,2CR3 ,2FGI ,3C4F ,3DPK ,3GQI ,3GQL ,3JS2 ,3KRJ ,3KRL ,3KXX ,3KY2 ,3OJV ,3RHX ,3TT0 ,4F63 ,4F64 ,4F65 ,4NK9 ,4NKA ,4NKS
+FGFR-2: 1DJS ,1E0O ,1EV2 ,1GJO ,1II4 ,1IIL ,1NUN ,1OEC ,1WVZ ,2FDB ,2PSQ ,2PVF ,2PVY ,2PWL ,2PY3 ,2PZ5 ,2PZP ,2PZR ,2Q0B ,3B2T ,3CAF ,3CLY ,3CU1 ,3DAR ,3EUU ,3OJ2 ,3OJM ,3RI1 ,4J23 ,4J95 ,4J96 ,4J97 ,4J98 ,4J99
+FGFR-3: 1RY7, 2LZL, 4K33",NULL
+464,Type A ephrins,NULL,Mus musculus (Mouse):10090,Protein>Others,"Ephrin-A1: P52793, Ephrin-A2: P52801, Ephrin-A3: O08545, Ephrin-A4: O08542, Ephrin-A5: O08543","Ephrin-A5:1SHW, 1SHX",NULL
+465,Envelope protein E,NULL,Dengue virus type 2 (strain Thailand/16681/1984) (DENV-2):31634,Protein>Others,P29990[281-775],"2R69, 4O6B",NULL
+466,Claudin 18.2,NULL,Unknown,Protein>Others,NULL,NULL,The cancer-specific cell surface target Claudin 18 isoform 2 (CLDN18.2) is a 27.7 kDa gastric differentiation protein that spans the cell membrane with four transmembrane helices
+467,Ras-related protein Rab-3A,SMG P25A,Bos taurus (Bovine):9913,Protein>Others,P11023,NULL,NULL
+468,Metuximab,NULL,Mus musculus (Mouse):10090,Protein>Monoclonal antibody,NULL,NULL,"Metuximab is the generic name of HAb18, a mouse monoclonal antibody of IgG1 class. The hybridoma producing HAb18 was made from mice immunized with a cell suspension of fresh human hepatocellular carcinoma tissues."
+469,Anti-AMA1 monoclonal antibody 4G2dc1,Mab 4G2dc1,Rattus norvegicus (Rat):10116,Protein>Monoclonal antibody,NULL,NULL,Rat monoclonal antibody 4G2dc1 recognizes correctly folded AMA1 and blocks merozoite invasion of erythrocytes.
+470,"Epstein-Barr virus, EBV",NULL,None,Virus,NULL,NULL,"Epstein-Barr virus (EBV) is the primary causative agent of infectious mononucleosis and in severe cases is involved in the pathogenesis of certain types of lymphomas, nasopharyngeal carcinoma, and posttransplantation lymphoproliferative disease."
+471,Ganglioside GD1α SIAT7-E and SIAT7-F,NULL,Mus musculus (Mouse):10090,Organic molecules or materials,"SIAT7-E: Q9QYJ1, SIAT7-F: Q9JM95",NULL,NULL
+472,Sialyl Lewis A oligosaccharide,NULL,Homo sapiens (Human):9606,Organic molecules or materials,NULL,NULL,"Certain epithelial cancer cells express sialyl Lewis X and sialyl Lewis A (NeuNAcα2→3Galβ1→3(Fucα1→4)GlcNAc→R), an isomer of sialyl Lewis X, as tumor-associated carbohydrate antigens. Sialyl Lewis A has also been shown to bind to E-selectin."
+473,"Cell-wall polysaccharide (CWPS) of group A Streptococcus (GAS), GAS CWPS",NULL,Unknown,Organic molecules or materials,NULL,NULL,NULL
+474,Actin,NULL,Homo sapiens (Human):9606,Protein>Others,"Actin, gamma-enteric smooth muscle: P63267, Actin, cytoplasmic 1: P60709, Actin, cytoplasmic 2: P63261, Actin, alpha cardiac muscle 1: P68032, Actin, alpha skeletal muscle: P68133, Actin, aortic smooth muscle: P62736",NULL,NULL
+475,"O-antigen of lipopolysaccharide, O-Ag of LPS",NULL,Shigella flexneri serotype 5b (strain 8401):373384,Protein>Others,NULL,NULL,NULL
+476,"Fibrinogen alpha, beta and gamma chain",NULL,Homo sapiens (Human):9606,Protein>Others,"Fibrinogen alpha chain: P02671, Fibrinogen beta chain: P02675, Fibrinogen gamma chain: P02679","Fibrinogen alpha chain: 1BBR, 1DM4, 1FZA, 1FZB, 1FZC, 1FZD, 1FZE, 1FZF, 1FZG, 1LT9, 1LTJ, 1N86, 1N8E, 1RE3, 1RE4, 1RF0, 1RF1, 1YCP, 2A45, 2FFD, 2H43, 2HLO, 2HOD, 2HPC, 2OYH, 2OYI, 2Q9I, 2XNX, 2XNY, 2Z4E, 3AT0, 3BVH, 3E1I, 3GHG, 3H32, 3HUS, 4F27
+Fibrinogen beta chain: 1FZA, 1FZB, 1FZC, 1FZE, 1FZF, 1FZG, 1LT9, 1LTJ, 1N86, 1N8E, 1RE3, 1RE4, 1RF0, 1RF1, 2A45, 2FFD, 2H43, 2HLO, 2HOD, 2HPC, 2OYH, 2OYI, 2Q9I, 2XNX, 2XNY, 2Z4E, 3BVH, 3E1I, 3GHG, 3H32, 3HUS
+Fibrinogen gamma chain: 1DUG, 1FIB, 1FIC, 1FID, 1FZA, 1FZB, 1FZC, 1FZE, 1FZF, 1FZG, 1LT9, 1LTJ, 1N86, 1N8E, 1RE3, 1RE4, 1RF0, 1RF1, 2A45, 2FFD, 2FIB, 2H43, 2HLO, 2HOD, 2HPC, 2HWL, 2OYH, 2OYI, 2Q9I, 2VDO, 2VDP, 2VDQ, 2VDR, 2VR3, 2XNX, 2XNY, 2Y7L, 2Z4E, 3BVH, 3E1I, 3FIB, 3GHG, 3H32, 3HUS, 4B60",NULL
+477,T. saginata metacestode crude antigen,TsCa,Unknown,Protein>Others,NULL,NULL,NULL
+478,CD14,"Monocyte differentiation antigen CD14
+Myeloid cell-specific leucine-rich glycoprotein
+CD_antigen: CD14",Homo sapiens (Human):9606,Protein>Others,P08571,4GLP,NULL
+479,Triosephosphate isomerase (EC:5.3.1.1),"Triose-phosphate isomerase, TIM",Taenia solium (Pork tapeworm):6204,Protein>Enzyme,Q9GTX8,NULL,NULL
+480,"2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase",NULL,Escherichia coli (strain K12):83333,Protein>Enzyme,P15047,2FWM,NULL
+481,Leishmania infantum,NULL,Canis familiaris:9615,Miscellaneous,NULL,NULL,NULL
+482,Glyceraldehyde-3-phosphate dehydrogenase (EC:1.2.1.12),"GAPDH
+Plasmin receptor
+Plasminogen-binding protein",Streptococcus dysgalactiae subsp. equisimilis (Streptococcus equisimilis):119602,Protein>Enzyme,Q59906,NULL,NULL
+483,LPP20 lipoprotein,NULL,Helicobacter pylori NCTC 11639:637383,Protein>Others,NULL,NULL,NULL
+484,Arginine kinase (AK),NULL,Scylla paramamosain (Mud crab):85552,Protein>Enzyme,D2DSQ8,NULL,NULL
+485,"L. infantum protein antigen (LiAg)
+",NULL,Leishmania infantum:5671,Protein>Others,NULL,NULL,NULL
+486,Human cardiac troponin I (hcTnI),NULL,Homo sapiens (Human):9606,Protein>Others,P19429,"1J1D, 1J1E, 1LXF, 1MXL, 1OZS, 2KGB, 2KRD, 2L1R",NULL
+487,L. infantum chagasi Protein Antigen (LiPA),NULL,Leishmania infantum:5671,Protein>Others,NULL,NULL,NULL
+488,Thiacloprid,NULL,Unknown,Inorganic molecules or materials,NULL,NULL,Thiacloprid is a systemic and broad-spectrum neonicotinoid insecticide against sucking and chewing insects and is the second member of Bayer's chloronicotintyl family.
+489,Glyceraldehyde-3-phosphate dehydrogenase (EC:1.2.1.12),NULL,Streptococcus dysgalactiae subsp. equisimilis (Streptococcus equisimilis):119602,Protein>Enzyme,Q59906 [1-150],NULL,"Streptococcus dysgalactiae (S. dysgalactia) GapC is a highly conserved surface dehydrogenase among the streptococcus spp., which is responsible for inducing protective antibody immune responses in animals. GapC1-150, an immunodominant fragment contain amino acids from 1 to 150 of S. dysgalactiae GapC."
+490,Insulin-like growth factor II,"Somatomedin-A, T3M-11-derived growth factor",Homo sapiens (Human):9606,Protein>Others,P01344,"1GF2, 1IGL, 2L29, 2V5P, 3E4Z, 3KR3","The insulin-like growth factors possess growth-promoting activity. In vitro, they are potent mitogens for cultured cells. IGF-II is influenced by placental lactogen and may play a role in fetal development."
+491,Corticoliberin,"Corticotropin-releasing factor, CRF, Corticotropin-releasing hormone",Homo sapiens (Human):9606,Protein>Others,P06850,"3EHT, 3EHU",This hormone from hypothalamus regulates the release of corticotropin from pituitary gland.
+492,Interleukin-6 receptor,NULL,Homo sapiens (Human):9606,Protein>Receptor,NULL,NULL,NULL
+493,Avian influenza virus nonstructural protein 1,NULL,Unknown,Protein>Others,NULL,NULL,NULL
+494,Spike protein S1 region,NULL,Porcine epidemic diarrhea virus (strain CV777) (PEDV):229032,Protein>Others,Q91AV1 [17-734],4J79,NULL
+495,Vibrio cholerae serotype O1,NULL,Vibrio cholerae serotype O1 (strain ATCC 39541 / Classical Ogawa 395 / O395):345073,Cell,NULL,NULL,NULL
+496,The spike (S) protein of the infectious bronchitis virus (IBV),NULL,Infectious bronchitis virus:11120,Protein>Others,Q9Q6Q7,NULL,NULL
+497,Hepatitis C virus (HCV) nonstructural 3 (NS3) protein,NULL,Hepatitis C virus genotype 1a (isolate 1):11104,Protein>Others,P26664 [1193-1464],NULL,NULL
+498,Human SARS coronavirus,"SARS-CoV, Severe acute respiratory syndrome coronavirus",Human SARS coronavirus:227859,Virus,NULL,NULL,NULL
+499,Burkholderia pseudomallei protease,NULL,Unknown,Protein>Enzyme,NULL,NULL,NULL
+500,Cytochrome P450 2D6 (CYP2D6) protein,NULL,Homo sapiens (Human):9606,Protein>Others,P10635,"2F9Q, 3QM4, 3TBG, 3TDA, 4WNT, 4WNU, 4WNV, 4WNW, 4XRY, 4XRZ",NULL
+501,Merozoitesurface protein-142(MSP-142),NULL,Plasmodium knowlesi:5850,Protein>Others,NULL,NULL,NULL
+502,Amyloid β (Aβ) peptide,NULL,Homo sapiens (Human):9606,Protein>Others,NULL,NULL,"Amyloid β 1-42 (Aβ1–42) were purchased from Sigma (Shanghai, China)."
+503,Capsid proteins (CPs) of plant potyviruses,NULL,Unknown,Protein>Others,NULL,NULL,NULL
+504,Anti-MGAM polyclonal antibody,NULL,Unknown,Protein>Polyclonal antibody,NULL,NULL,"Anti-MGAM polyclonal antibodies were from Santa Cruz Biotechnology Inc., Santa Cruz, CA, USA."
+505,BPH701 (1-phospho-4- (3-(4-pyrolphenoxy) phenyl) butane-1-sulfonic acid,NULL,None,Inorganic molecules or materials,NULL,NULL,"The known hSQS inhibitor, BPH701 (1-phospho-4- (3-(4-pyrolphenoxy) phenyl) butane-1-sulfonic acid, is an analogue of the substrate FPP), was kindly provided from the lab of Professor Andrew Wang, Institute of Biological Chemistry of Academia Sinica at Taipei."
+506,Gonadotropin releasing hormone (GnRH),NULL,Felis catus:9685,Protein>Others,NULL,NULL,"Gonadotropin releasing hormone (GnRH) is a ten amino acidlong peptide (EHWSYGLRPG) and the sequence of GnRH peptide is identical in the majority of mammalian species, including human, mouse, cat, dog, and rabbit."
+507,Gonadotropin releasing hormone (GnRH),NULL,Canis familiaris (dog):9615,Protein>Others,NULL,NULL,"Gonadotropin releasing hormone (GnRH) is a ten amino acidlong peptide (EHWSYGLRPG) and the sequence of GnRH peptide is identical in the majority of mammalian species, including human, mouse, cat, dog, and rabbit."
+508,Gonadotropin releasing hormone (GnRH),NULL,Oryctolagus cuniculus (Rabbit):9986,Protein>Others,NULL,NULL,"Gonadotropin releasing hormone (GnRH) is a ten amino acidlong peptide (EHWSYGLRPG) and the sequence of GnRH peptide is identical in the majority of mammalian species, including human, mouse, cat, dog, and rabbit."
+509,Recombinant HBX protein,NULL,Unknown,Protein>Others,NULL,NULL,Recombinant HBX (amino acids 1–154) was produced as a glutathione S-transferase (GST) fusion protein.
+510,Ganglioside GM3,NULL,Unknown,Organic molecules or materials,NULL,NULL,"Neu5Aca2–3Galb1–4Glcb1–10Cer (GM3) was purchased from Sigma–Aldrich, Inc. (St. Louis, MO)."
+511,Pollen allergens,NULL,Unknown,Organic molecules or materials,NULL,NULL,NULL
+512,Ochratoxin A (OTA),NULL,Unknown,Organic molecules or materials,NULL,NULL,Ochratoxin A (OTA) is a common mycotoxin mainly produced by several Aspergillus and Penicillium species.
+513,Glu-tRNAGln,NULL,Unknown,Organic molecules or materials,NULL,NULL,GatCAB catalyzes the conversion of misacylated Glu-tRNAGln into Gln-tRNAGln.
+514,Capsid protein VP3,NULL,Goose parvovirus:38251,Protein>Others,NULL,NULL,NULL
+515,Envelope glycoprotein gp90,NULL,Reticuloendotheliosis virus strain HLJ07I,Protein>Others,NULL,NULL,"The gp90 protein is an important envelope glycoprotein, which is responsible for inducing protective antibody immune responses in animals."
+516,Capsid protein VP1,NULL,Duck hepatitis A virus 1:1006061,Protein>Others,NULL,NULL,"VP1 is the most external and immunodominant of the picornavirus capsid proteins, potentially containing B and T cell epitopes that could induce protective neutralizing antibodies."
+517,"Dense granule protein 2, Protein GRA 2","28 kDa antigen
+GP28.5",Toxoplasma gondii:5811,Protein>Others,P13404,NULL,The dense granules (GRA) proteins are secreted into the PV during invasion by T.gondii tachyzoites in the host cell and remain soluble in the parasitophorous vacuole (PV) lumen or associated with PV membrane (PVM) or tubulovesicular network (TVN) of membranous structure within the PV.
+518,Anti-Deinagkistrodon acutus venom polyclonal antibody,DA-pAb,Oryctolagus cuniculus (Rabbit):9986,Protein>Polyclonal antibody,NULL,NULL,NULL
+519,Epidermal growth factor receptor (EC:2.7.10.1),Proto-oncogene c-ErbB-1 Receptor tyrosine-protein kinase erbB-1,Homo sapiens (Human):9606,Protein>Receptor,P00533,"1IVO, 1M14, 1M17, 1MOX, 1NQL, 1XKK, 1YY9, 1Z9I, 2EB2, 2EB3, 2GS2, 2GS6, 2GS7, 2ITN, 2ITO, 2ITP, 2ITQ, 2ITT, 2ITU, 2ITV, 2ITW, 2ITX, 2ITY, 2ITZ, 2J5E, 2J5F, 2J6M, 2JIT, 2JIU, 2JIV, 2KS1, 2M0B, 2M20, 2N5S, 2RF9, 2RFD, 2RFE, 2RGP, 3B2U, 3B2V, 3BEL, 3BUO, 3C09, 3G5V, 3G5Y, 3GOP, 3GT8, 3IKA, 3LZB, 3NJP, 3OB2, 3OP0, 3P0Y, 3PFV, 3POZ, 3QWQ, 3UG1, 3UG2, 3VJN, 3VJO, 3VRP, 3VRR, 3W2O, 3W2P, 3W2Q, 3W2R, 3W2S, 3W32, 3W33, 4G5J, 4G5P, 4HJO, 4I1Z, 4I20, 4I21, 4I22, 4I23, 4I24, 4JQ7, 4JQ8, 4JR3, 4JRV, 4KRL, 4KRM, 4KRO, 4KRP, 4LI5, 4LL0, 4LQM, 4LRM, 4R3P, 4R3R, 4R5S, 4RIW, 4RIX, 4RIY, 4RJ4, 4RJ5, 4RJ6, 4RJ7, 4RJ8, 4TKS, 4UIP, 4UV7, 4WD5, 4WKQ, 4WRG, 4ZAU, 4ZJV, 4ZSE, 5C8K, 5C8M, 5C8N, 5CAL, 5CAN, 5CAO, 5CAP, 5CAQ, 5CAS, 5CAU, 5CAV, 5CNN, 5CNO, 5CZH, 5CZI, 5D41, 5EDP, 5EDQ, 5EDR, 5EM5, 5EM6, 5EM7, 5EM8, 5FED, 5FEE, 5FEQ, 5HCX, 5HCY, 5HCZ, 5HG5, 5HG7, 5HG8, 5HG9, 5HIB, 5HIC, 5J9Y, 5J9Z, 5JEB, 5SX4, 5SX5",NULL
+520,E protein,NULL,Duck Tembusu virus,Protein>Others,NULL,NULL,NULL
+521,"BCL-6 corepressors BcoR, SMRT, and N-CoR","Alternative names for BcoR: BCL-6 corepressor Alternative names for SMRT:
+Nuclear receptor corepressor 2 N-CoR2
+CTG repeat protein 26 SMAP270 Silencing mediator of retinoic acid and thyroid hormone receptor SMRT T3 receptor-associating factor TRAC Thyroid-, retinoic-acid-receptor-associated corepressor Alternative names for N-coR:
+Nuclear receptor corepressor 1 N-CoR1.",Homo sapiens (Human):9606,Protein>Others,"Q6W2J9, Q9Y618, O75376","BcoR: 2N1L, 3BIM, 4HPL
+SMRT: 1KKQ, 1R2B, 1XC5, 2GPV, 2L5G, 2LTP, 2ODD, 2RT5, 3R29, 3R2A, 4A69, 4OAR
+N-CoR: 2EQR, 3H52, 3KMZ, 3N00, 4MDD, 4WVD",NULL
+522,"Fibroblast growth factor 21, FGF-21",NULL,Homo sapiens (Human):9606,Protein>Others,Q9NSA1,NULL,NULL
+523,"lipopolysaccharide, LPS",NULL,Vibrio cholerae,Protein>Others,NULL,NULL,NULL
+524,"O,O-dimethyl organophosphorus pesticides (O,O-dimethyl OPs)",NULL,,Organic molecules or materials,NULL,NULL,NULL
+525,Triosephosphate isomerase (TIM),NULL,freshwater crayfish (Procambarus clarkii),Protein>Enzyme,NULL,NULL,NULL
+526,Dengue virus (DENV),NULL,Dengue virus type 3(DEN3P): 408870,Virus,P27915,NULL,NULL
+527,Nuclear factor erythroid 2-related factor 2,"NF-E2-related factor 2
+NFE2-related factor 2
+HEBP1
+Nuclear factor, erythroid derived 2, like 2",Homo sapiens (Human):9606,Protein>Others,Q16236,"2FLU, 2LZ1, 3ZGC, 4IFL",NULL
+528,"Brain-derived neurotrophic factor, BDNF ",Abrineurin,Homo sapiens (Human):9606,Protein>Others,P23560,"1B8M, 1BND","BDNF has only a short half-life in the blood and poor central transition , making it difficult to use intrinsic BDNF as a therapeutic agent. Therefore, alternative molecules that mimic BDNF function would serve as novel innovative central nervous system (CNS) drugs."
+529,Fibronectin(FN),NULL,Homo sapiens (Human):9606,Protein>Others,P02751,"1E88,
+1E8B,
+1FBR,
+1FNA,
+1FNF,
+1FNH,
+1J8K,
+1O9A,
+1OWW,
+1Q38,
+1QGB,
+1QO6,
+1TTF,
+1TTG,
+2CG6,
+2CG7,
+2CK2,
+2CKU,
+2EC3,
+2FN2,
+2FNB,
+2GEE,
+2H41,
+2H45,
+2HA1,
+2N1K,
+2OCF,
+2RKY,
+2RKZ,
+2RL0,
+3CAL,
+3EJH,
+3GXE,
+3M7P,
+3MQL,
+3R8Q,
+3T1W,
+3ZRZ,
+4GH7,
+4JE4,
+4JEG,
+4LXO,
+4MMX,
+4MMY,
+4MMZ,
+4PZ5,
+5DC0,
+5DC4,
+5DC9,
+5DFT,
+5J7C ",It is well known that hFN participates in the cellular uptake of the extracellular proteins or microorganisms which bind to hFN.
+530,"Triosephosphate isomerase, TIM",NULL,Amphioctopus fangsiao (Ocellated octopus) (Octopus ocellatus): 515817,Protein>Others,A0A0S1U346,NULL,NULL
+531,Urokinase plasminogen activator surface receptor,"U-PAR, uPAR
+Monocyte activation antigen Mo3
+CD_antigen=CD87",Homo sapiens (Human):9606,Protein>Receptor,Q03405,"1YWH, 2FD6, 2I9B, 3BT1, 3BT2, 3U73, 3U74, 4K24, 4QTI",NULL
+532,Fumonisin B1,NULL,,Protein>Others,NULL,NULL,NULL
+533,"Triosephosphate isomerase, TIM",NULL,Octopus fangsiao,Protein>Others,NULL,NULL,NULL
+534,"Heme oxygenase-1, HO-1",HSP32,Rattus norvegicus (Rat):10116,,P06762,"1DVE, 1DVG, 1IRM, 1IVJ, 1IX3, 1IX4, 1J02, 1J2C, 1UBB, 1ULX, 1VGI, 2DY5, 2E7E, 2ZVU, 3I9T, 3I9U, 3WKT, 4G7L, 4G7P, 4G7T, 4G7U, 4G8P, 4G8U, 4G8W, 4G98, 4G99, 4MEC",NULL
+535,Anti-human myeloperoxidase antibody,NULL,Unknown,,NULL,NULL,NULL
+536,Capsid protein,"Protein ORF2, pORF2",Unknown,,NULL,NULL,NULL
+537,Foot-and-mouth disease virus (FMDV) strain A/XJBC/CHA/2010,NULL,Cricetulus griseus (Chinese hamster) (Cricetulus barabensis griseus): 10029,,NULL,NULL,NULL
+538,Tumor necrosis factor ligand superfamily member 12,"APO3 ligand
+TNF-related weak inducer of apoptosis, TWEAK",Homo sapiens (Human):9606,Protein>Others,O43508,4HT1,NULL
+539,Tumor necrosis factor ligand superfamily member 10,NULL,Mus musculus (Mouse):10090,Protein>Others,P50592,NULL,NULL
+540,Outer capsid protein VP2,NULL,Bluetongue virus 8:197780,Protein>Others,NULL,NULL,NULL
+541,Imidaclothiz,NULL,None,Organic molecules or materials,NULL,NULL,NULL
+542,Hepatocyte growth factor-like protein,"Macrophage stimulatory protein, MSP
+Macrophage-stimulating protein, MSP",Homo sapiens (Human):9606,Protein>Others,P26927,"2ASU, 4QT8",NULL
+543,"Lysophosphatidylinositol, LPI",L-α-lysophosphatidylinositol,Homo sapiens (Human):9606,Organic molecules or materials,NULL,NULL,NULL
+544,Leukosialin,"Galactoglycoprotein, GALGP
+Leukocyte sialoglycoprotein
+Sialophorin
+CD_antigen: CD43",Homo sapiens (Human):9606,Protein>Others,P16150,NULL,NULL
+545,"Alpha-2-macroglobulin receptor-associated protein, Alpha-2-MRAP","Low density lipoprotein receptor-related protein-associated protein 1, RAP",Homo sapiens (Human):9606,Protein>Others,P30533,"1LRE, 1NRE, 1OP1, 1OV2, 2FCW, 2FTU, 2FYL, 2P01, 2P03",NULL
+546,Anti-Cry1Ab monoclonal antibody,NULL,,Protein>Monoclonal antibody,NULL,NULL,The anti-Cry1Ab monoclonal antibodies (mAb) were prepared in their laboratory.
+547,Anti-human total PSA monoclonal antibody,NULL,Unknown,Protein>Monoclonal antibody,NULL,NULL,"Anti-human total PSA monoclonal antibody (anti-PSA mAb) were purchased from Meridian Life Science (Memphis, TN, USA)."
+548,Glyceraldehyde-3-phosphate dehydrogenase,NULL,Staphylococcus aureus:1280,Protein>Enzyme,Q6V0I0,NULL,NULL
+549,Glyceraldehyde-3-phosphate dehydrogenase,NULL,Staphylococcus aureus:1280,Protein>Enzyme,Q6V0I0,NULL,NULL
+550,Blood group Rh(D) polypeptide,"RHXIII
+Rh polypeptide 2
+RhPII
+Rhesus D antigen
+CD240D",Homo sapiens (Human):9606,Protein>Others,Q02161,NULL,The RhD antigen is the most immunogenic and clinically significant of the Rhesus (Rh) blood group system.
+551,Haemonchus contortus,NULL,Haemonchus contortus:6289,Cell,NULL,NULL,NULL
+552,M. pneumoniae,NULL,Unknown,Cell,NULL,NULL,NULL
+553,Leukocyte elastase inhibitor (LEI),NULL,,Protein>Others,NULL,NULL,"Leukocyte elastase inhibitor (LEI) also known as serpin B1 which is a cytoplasmic serine protease inhibitor of polymorphonuclear neutrophils. Among other serine proteases, it specifically inhibits neutrophil elastase, PR3 and cathepsin G, all found in neutrophil granules, by a suicide inhibition mechanism."
+554,Splicing factor 3B subunit 1,"Pre-mRNA-splicing factor SF3b 155 kDa subunit, SF3b155
+Spliceosome-associated protein 155, SAP 155",Mus musculus (Mouse):10090,Protein>Others,Q99NB9,NULL,NULL
+555,Glomerular basement membrane,NULL,Rattus norvegicus (Rat):10116,Organ and tissue,NULL,NULL,NULL
+556,"Fibroblast growth factor 1, FGF-1","Acidic fibroblast growth factor, aFGF
+Endothelial cell growth factor, ECGF
+Heparin-binding growth factor 1, HBGF-1",Homo sapiens (Human):9606,Protein>Others,P05230,"1AXM, 1DJS, 1DZC, 1DZD, 1E0O, 1EVT, 1HKN, 1JQZ, 1JT3, 1JT4, 1JT5, 1JT7, 1JTC, 1JY0, 1K5U, 1K5V, 1M16, 1NZK, 1P63, 1PZZ, 1Q03, 1Q04, 1QCT, 1RG8, 1RML, 1RY7, 1YTO, 1Z2V, 1Z4S, 2AFG, 2AQZ, 2AXM, 2ERM, 2HW9, 2HWA, 2HWM, 2HZ9, 2K43, 2K4A, 2K8R, 2KI4, 2KI6, 2NTD, 2Q9X, 2RQ9, 3B9U, 3BA4, 3BA5, 3BA7, 3BAD, 3BAG, 3BAH, 3BAO, 3BAQ, 3BAU, 3BAV, 3BB2, 3CQA, 3CRG, 3CRH, 3CRI, 3CU1, 3FGM, 3FJ8, 3FJ9, 3FJA, 3FJB, 3FJC, 3FJD, 3FJE, 3FJF, 3FJH, 3FJI, 3FJJ, 3FJK, 3HOM, 3JUT, 3K1X, 3O3Q, 3OJ2, 3OJM, 3OJV, 3UD7, 3UD8, 3UD9, 3UDA, 4J23, 4Q91, 4Q9G, 4Q9P, 4QAL, 4QBC, 4QBV, 4QC4, 4QO3, 4XKI, 4YOL",NULL
