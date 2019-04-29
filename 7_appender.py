@@ -3,7 +3,7 @@ from Bio.Entrez import efetch, read
 from Bio import Entrez
 
 # Enter own e-mail
-Entrez.email = 'shauryaseth@hotmail.com'
+Entrez.email = 'youremail@example.com'
 
 # Turns off warnings
 pd.options.mode.chained_assignment = None
