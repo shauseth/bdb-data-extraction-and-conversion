@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+- phpMyAdmin XML Dump
+- version 4.5.1
+- https://www.phpmyadmin.net
+-
+- Host: 127.0.0.1
+- Generation Time: 2018-10-20 15:07:43
+- 服务器版本： 10.1.13-MariaDB
+- PHP Version: 5.6.23
+-->
+
+<pma_xml_export version="1.0" xmlns:pma="http://www.phpmyadmin.net/some_doc_url/">
+    <!--
+    - Structure schemas
+    -->
+    <pma:structure_schemas>
+        <pma:database name="bdb8.2copp" collation="utf8_general_ci" charset="utf8">
+            <pma:table name="sotmc">
+                CREATE TABLE `sotmc` (
+                  `sotmcID` int(255) NOT NULL AUTO_INCREMENT,
+                  `ComplexID` int(255) NOT NULL,
+                  `MimotopeSetID` int(255) NOT NULL,
+                  `sotmcComments` text,
+                  PRIMARY KEY (`sotmcID`)
+                ) ENGINE=MyISAM AUTO_INCREMENT=42 DEFAULT CHARSET=utf8;
+            </pma:table>
+        </pma:database>
+    </pma:structure_schemas>
+
+    <!--
+    - Database: 'bdb8.2copp'
+    -->
+    <database name="bdb8.2copp">
+        <!-- 表 sotmc -->
+        <table name="sotmc">
+            <column name="sotmcID">1</column>
+            <column name="ComplexID">27</column>
+            <column name="MimotopeSetID">737</column>
+            <column name="sotmcComments">NULL</column>
+        </table>
+        <table name="sotmc">
+            <column name="sotmcID">2</column>
+            <column name="ComplexID">28</column>
+            <column name="MimotopeSetID">890</column>
+            <column name="sotmcComments">NULL</column>
+        </table>
+        <table name="sotmc">
+            <column name="sotmcID">3</column>
+            <column name="ComplexID">35</column>
+            <column name="MimotopeSetID">984</column>
+            <column name="sotmcComments">NULL</column>
+        </table>
+        <table name="sotmc">
+            <column name="sotmcID">4</column>
+            <column name="ComplexID">36</column>
+            <column name="MimotopeSetID">984</column>
+            <column name="sotmcComments">NULL</column>
+        </table>
+        <table name="sotmc">
+            <column name="sotmcID">5</column>
+            <column name="ComplexID">43</column>
+            <column name="MimotopeSetID">1213</column>
+            <column name="sotmcComments">NULL</column>
+        </table>
+        <table name="sotmc">
+            <column name="sotmcID">6</column>
+            <column name="ComplexID">62</column>
+            <column name="MimotopeSetID">1443</column>
+            <column name="sotmcComments">NULL</column>
+        </table>
+        <table name="sotmc">
+            <column name="sotmcID">7</column>
+            <column name="ComplexID">62</column>
+            <column name="MimotopeSetID">1444</column>
+            <column name="sotmcComments">NULL</column>
+        </table>
+        <table name="sotmc">
+            <column name="sotmcID">8</column>
+            <column name="ComplexID">100</column>
+            <column name="MimotopeSetID">1817</column>
+            <column name="sotmcComments">NULL</column>
+        </table>
+        <table name="sotmc">
+            <column name="sotmcID">9</column>
+            <column name="ComplexID">101</column>
+            <column name="MimotopeSetID">1817</column>
+            <column name="sotmcComments">NULL</column>
+        </table>
+        <table name="sotmc">
+            <column name="sotmcID">10</column>
+            <column name="ComplexID">102</column>
+            <column name="MimotopeSetID">1817</column>
+            <column name="sotmcComments">NULL</column>
+        </table>
+        <table name="sotmc">
+            <column name="sotmcID">11</column>
+            <column name="ComplexID">103</column>
+            <column name="MimotopeSetID">1817</column>
+            <column name="sotmcComments">NULL</column>
+        </table>
+        <table name="sotmc">
+            <column name="sotmcID">12</column>
+            <column name="ComplexID">104</column>
+            <column name="MimotopeSetID">1817</column>
+            <column name="sotmcComments">NULL</column>
+        </table>
+        <table name="sotmc">
+            <column name="sotmcID">13</column>
+            <column name="ComplexID">106</column>
+            <column name="MimotopeSetID">1818</column>
+            <column name="sotmcComments">NULL</column>
+        </table>
+        <table name="sotmc">
+            <column name="sotmcID">14</column>
+            <column name="ComplexID">107</column>
+            <column name="MimotopeSetID">1818</column>
+            <column name="sotmcComments">NULL</column>
+        </table>
+        <table name="sotmc">
+            <column name="sotmcID">15</column>
+            <column name="ComplexID">108</column>
+            <column name="MimotopeSetID">1818</column>
+            <column name="sotmcComments">NULL</column>
+        </table>
+        <table name="sotmc">
+            <column name="sotmcID">16</column>
+            <column name="ComplexID">109</column>
+            <column name="MimotopeSetID">1818</column>
+            <column name="sotmcComments">NULL</column>
+        </table>
+        <table name="sotmc">
+            <column name="sotmcID">17</column>
+            <column name="ComplexID">110</column>
+            <column name="MimotopeSetID">1818</column>
+            <column name="sotmcComments">NULL</column>
+        </table>
+        <table name="sotmc">
+            <column name="sotmcID">18</column>
+            <column name="ComplexID">159</column>
+            <column name="MimotopeSetID">888</column>
+            <column name="sotmcComments">NULL</column>
+        </table>
+        <table name="sotmc">
+            <column name="sotmcID">19</column>
+            <column name="ComplexID">160</column>
+            <column name="MimotopeSetID">888</column>
+            <column name="sotmcComments">NULL</column>
+        </table>
+        <table name="sotmc">
+            <column name="sotmcID">20</column>
+            <column name="ComplexID">161</column>
+            <column name="MimotopeSetID">888</column>
+            <column name="sotmcComments">NULL</column>
+        </table>
+        <table name="sotmc">
+            <column name="sotmcID">21</column>
+            <column name="ComplexID">162</column>
+            <column name="MimotopeSetID">888</column>
+            <column name="sotmcComments">NULL</column>
+        </table>
+        <table name="sotmc">
+            <column name="sotmcID">22</column>
+            <column name="ComplexID">163</column>
+            <column name="MimotopeSetID">888</column>
+            <column name="sotmcComments">NULL</column>
+        </table>
+        <table name="sotmc">
+            <column name="sotmcID">23</column>
+            <column name="ComplexID">164</column>
+            <column name="MimotopeSetID">888</column>
+            <column name="sotmcComments">NULL</column>
+        </table>
+        <table name="sotmc">
+            <column name="sotmcID">24</column>
+            <column name="ComplexID">165</column>
+            <column name="MimotopeSetID">888</column>
+            <column name="sotmcComments">NULL</column>
+        </table>
+        <table name="sotmc">
+            <column name="sotmcID">25</column>
+            <column name="ComplexID">166</column>
+            <column name="MimotopeSetID">888</column>
+            <column name="sotmcComments">NULL</column>
+        </table>
+        <table name="sotmc">
+            <column name="sotmcID">26</column>
+            <column name="ComplexID">167</column>
+            <column name="MimotopeSetID">888</column>
+            <column name="sotmcComments">NULL</column>
+        </table>
+        <table name="sotmc">
+            <column name="sotmcID">27</column>
+            <column name="ComplexID">168</column>
+            <column name="MimotopeSetID">888</column>
+            <column name="sotmcComments">NULL</column>
+        </table>
+        <table name="sotmc">
+            <column name="sotmcID">28</column>
+            <column name="ComplexID">169</column>
+            <column name="MimotopeSetID">888</column>
+            <column name="sotmcComments">NULL</column>
+        </table>
+        <table name="sotmc">
+            <column name="sotmcID">29</column>
+            <column name="ComplexID">170</column>
+            <column name="MimotopeSetID">888</column>
+            <column name="sotmcComments">NULL</column>
+        </table>
+        <table name="sotmc">
+            <column name="sotmcID">30</column>
+            <column name="ComplexID">171</column>
+            <column name="MimotopeSetID">890</column>
+            <column name="sotmcComments">NULL</column>
+        </table>
+        <table name="sotmc">
+            <column name="sotmcID">31</column>
+            <column name="ComplexID">172</column>
+            <column name="MimotopeSetID">890</column>
+            <column name="sotmcComments">NULL</column>
+        </table>
+        <table name="sotmc">
+            <column name="sotmcID">32</column>
+            <column name="ComplexID">173</column>
+            <column name="MimotopeSetID">890</column>
+            <column name="sotmcComments">NULL</column>
+        </table>
+        <table name="sotmc">
+            <column name="sotmcID">33</column>
+            <column name="ComplexID">174</column>
+            <column name="MimotopeSetID">890</column>
+            <column name="sotmcComments">NULL</column>
+        </table>
+        <table name="sotmc">
+            <column name="sotmcID">34</column>
+            <column name="ComplexID">175</column>
+            <column name="MimotopeSetID">890</column>
+            <column name="sotmcComments">NULL</column>
+        </table>
+        <table name="sotmc">
+            <column name="sotmcID">35</column>
+            <column name="ComplexID">176</column>
+            <column name="MimotopeSetID">890</column>
+            <column name="sotmcComments">NULL</column>
+        </table>
+        <table name="sotmc">
+            <column name="sotmcID">36</column>
+            <column name="ComplexID">238</column>
+            <column name="MimotopeSetID">1211</column>
+            <column name="sotmcComments">NULL</column>
+        </table>
+        <table name="sotmc">
+            <column name="sotmcID">37</column>
+            <column name="ComplexID">250</column>
+            <column name="MimotopeSetID">1211</column>
+            <column name="sotmcComments">NULL</column>
+        </table>
+        <table name="sotmc">
+            <column name="sotmcID">38</column>
+            <column name="ComplexID">311</column>
+            <column name="MimotopeSetID">3081</column>
+            <column name="sotmcComments">NULL</column>
+        </table>
+        <table name="sotmc">
+            <column name="sotmcID">39</column>
+            <column name="ComplexID">312</column>
+            <column name="MimotopeSetID">3082</column>
+            <column name="sotmcComments">NULL</column>
+        </table>
+        <table name="sotmc">
+            <column name="sotmcID">40</column>
+            <column name="ComplexID">316</column>
+            <column name="MimotopeSetID">449</column>
+            <column name="sotmcComments">NULL</column>
+        </table>
+        <table name="sotmc">
+            <column name="sotmcID">41</column>
+            <column name="ComplexID">317</column>
+            <column name="MimotopeSetID">449</column>
+            <column name="sotmcComments">NULL</column>
+        </table>
+    </database>
+</pma_xml_export>
