@@ -4,6 +4,6 @@ BDB is a relational database which contains a collection of XML files found in t
 
 These files do not contain the authors and dates for the experiments, however, they have a reference column that contains PubMed IDs. A parser is used to extract the dates and authors from PubMed and collect them in a dataframe.
 
-This data will be used to generate files that have a filename and format suitable for the 48HourDiscovery website.
+This data was used to generate files that have a filename and format suitable for the 48HourDiscovery website.
 
 All files are referenced in the laboratory notebook SH-I.
